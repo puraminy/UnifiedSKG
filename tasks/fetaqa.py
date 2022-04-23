@@ -48,7 +48,7 @@ _HOMEPAGE = "https://github.com/Yale-LILY/FeTaQA/"
 
 _LICENSE = "CC-BY-SA-4.0 License"
 
-_URL = "https://github.com/Yale-LILY/FeTaQA/raw/main/data/"
+_URL = "fetaqa/"
 _TRAINING_FILE = "fetaQA-v1_train.jsonl"
 _DEV_FILE = "fetaQA-v1_dev.jsonl"
 _TEST_FILE = "fetaQA-v1_test.jsonl"

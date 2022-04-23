@@ -26,15 +26,15 @@ logger = logging.getLogger(__name__)
 def main() -> None:
     os.environ[
         'CUBLAS_WORKSPACE_CONFIG'] = ':4096:8'  # Deterministic behavior of torch.addmm. Please refer to https://docs.nvidia.com/cuda/cublas/index.html#cublasApi_reproducibility
-    torch.set_deterministic(True)
+    # torch.set_deterministic(True)
     # Initialize the logger
     logging.basicConfig(level=logging.INFO)
 
     from filelock import FileLock
     import nltk
-    with FileLock(".lock") as lock:
-        nltk.download("punkt", quiet=True)
-        nltk.download("stopwords", quiet=True)
+    #with FileLock(".lock") as lock:
+    #    nltk.download("punkt", quiet=True)
+    #    nltk.download("stopwords", quiet=True)
 
     # Get args
     parser = HfArgumentParser((WrappedSeq2SeqTrainingArguments,))

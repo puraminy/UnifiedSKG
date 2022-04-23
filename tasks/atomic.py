@@ -69,9 +69,12 @@ class ATOMIC(datasets.GeneratorBasedBuilder):
             features=datasets.Features(
                 {
                     "id": datasets.Value("int32"),
-                    "input_text": datasets.Value("string"),
-                    "prefix": datasets.Value("string"),
-                    "target_text": datasets.Value("string"),
+                    "question": datasets.Value("string"),
+                    "table_id": datasets.Value("string"),
+                    "table": {"header": datasets.features.Sequence(datasets.Value("string")),
+                              "rows": datasets.features.Sequence(datasets.features.Sequence(datasets.Value("string")))},
+                    "meta": datasets.Value("string"),
+                    "answer_text": datasets.Value("string"),
                 }
             ),
             supervised_keys=None,
@@ -93,13 +96,17 @@ class ATOMIC(datasets.GeneratorBasedBuilder):
     def _generate_examples(self, filepath):
         """Yields examples."""
         with open(filepath, encoding="utf-8") as f:
-            for idx, line in enumerate(f):
-                example = json.loads(line)
+            tsv_reader = csv.DictReader(f, delimiter="\t")
+            idx = 0
+            for example in tsv_reader:
+                idx += 1 
+                if idx > 4000:
+                    break
                 yield idx, {
                     "id": idx,
                     "question": example["input_text"],
-                    "table_id": idx + 1,
-                    "table": "",
+                    "table_id": str(idx),
+                    "table": {"header": [example["prefix"]], "rows": []},
                     "meta": example["prefix"],
                     "answer_text": example["target_text"],
                 }
