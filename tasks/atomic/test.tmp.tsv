@@ -1,0 +1,1001 @@
+event	rel	resl
+<xAttr> PersonX abuses PersonX's power	xAttr	
+<xEffect> PersonX abuses PersonX's power	xEffect	
+<xEffect> PersonX abuses PersonX's power	xEffect	
+<oEffect> PersonX abuses PersonX's power	oEffect	
+<xEffect> PersonX abuses PersonX's power	xEffect	
+<xEffect> PersonX abuses PersonX's power	xEffect	
+<oWant> PersonX abuses PersonX's power	oWant	
+<oWant> PersonX abuses PersonX's power	oWant	
+<xNeed> PersonX abuses PersonX's power	xNeed	
+<xNeed> PersonX abuses PersonX's power	xNeed	
+<oWant> PersonX abuses PersonX's power	oWant	
+<xWant> PersonX abuses PersonX's power	xWant	
+<xWant> PersonX abuses PersonX's power	xWant	
+<xAttr> PersonX abuses PersonX's power	xAttr	
+<xReact> PersonX abuses PersonX's power	xReact	
+<xIntent> PersonX abuses PersonX's power	xIntent	
+<oReact> PersonX abuses PersonX's power	oReact	
+<oReact> PersonX abuses PersonX's power	oReact	
+<oReact> PersonX abuses PersonX's power	oReact	
+<xAttr> PersonX abuses PersonX's power	xAttr	
+<xAttr> PersonX abuses PersonX's power	xAttr	
+<xAttr> PersonX abuses PersonX's power	xAttr	
+<xEffect> PersonX abuses PersonX's power	xEffect	
+<xAttr> PersonX abuses PersonX's power	xAttr	
+<oWant> PersonX abuses PersonX's power	oWant	
+<xNeed> PersonX abuses PersonX's power	xNeed	
+<oWant> PersonX abuses PersonX's power	oWant	
+<xNeed> PersonX abuses PersonX's power	xNeed	
+<xNeed> PersonX abuses PersonX's power	xNeed	
+<xNeed> PersonX abuses PersonX's power	xNeed	
+<xWant> PersonX abuses PersonX's power	xWant	
+<xWant> PersonX abuses PersonX's power	xWant	
+<xWant> PersonX abuses PersonX's power	xWant	
+<xNeed> PersonX abuses PersonX's power	xNeed	
+<xNeed> PersonX abuses PersonX's power	xNeed	
+<xWant> PersonX abuses PersonX's power	xWant	
+<xWant> PersonX abuses PersonX's power	xWant	
+<xReact> PersonX abuses PersonX's power	xReact	
+<oReact> PersonX abuses PersonX's power	oReact	
+<xIntent> PersonX abuses PersonX's power	xIntent	
+<xReact> PersonX abuses PersonX's power	xReact	
+<oEffect> PersonX abuses PersonX's power	oEffect	
+<oEffect> PersonX abuses PersonX's power	oEffect	
+<oEffect> PersonX abuses PersonX's power	oEffect	
+<xReact> PersonX abuses PersonX's power	xReact	
+<xEffect> PersonX abuses PersonX's power	xEffect	
+<xNeed> PersonX abuses PersonX's power	xNeed	
+<oWant> PersonX abuses PersonX's power	oWant	
+<oWant> PersonX abuses PersonX's power	oWant	
+<oWant> PersonX abuses PersonX's power	oWant	
+<xWant> PersonX abuses PersonX's power	xWant	
+<xWant> PersonX abuses PersonX's power	xWant	
+<oWant> PersonX abuses PersonX's power	oWant	
+<oWant> PersonX abuses PersonX's power	oWant	
+<xWant> PersonX abuses PersonX's power	xWant	
+<xWant> PersonX abuses PersonX's power	xWant	
+<oWant> PersonX abuses PersonX's power	oWant	
+<oWant> PersonX abuses PersonX's power	oWant	
+<xWant> PersonX abuses PersonX's power	xWant	
+<xWant> PersonX abuses PersonX's power	xWant	
+<xAttr> PersonX abuses PersonX's power	xAttr	
+<xAttr> PersonX abuses PersonX's power	xAttr	
+<oWant> PersonX abuses PersonX's power	oWant	
+<xAttr> PersonX accepts PersonY's apology	xAttr	
+<xIntent> PersonX accepts PersonY's apology	xIntent	
+<oReact> PersonX accepts PersonY's apology	oReact	
+<xReact> PersonX accepts PersonY's apology	xReact	
+<xIntent> PersonX accepts PersonY's apology	xIntent	
+<oReact> PersonX accepts PersonY's apology	oReact	
+<xAttr> PersonX accepts PersonY's apology	xAttr	
+<xAttr> PersonX accepts PersonY's apology	xAttr	
+<xAttr> PersonX accepts PersonY's apology	xAttr	
+<xAttr> PersonX accepts PersonY's apology	xAttr	
+<xAttr> PersonX accepts PersonY's apology	xAttr	
+<xWant> PersonX accepts PersonY's apology	xWant	
+<xWant> PersonX accepts PersonY's apology	xWant	
+<oWant> PersonX accepts PersonY's apology	oWant	
+<oWant> PersonX accepts PersonY's apology	oWant	
+<xWant> PersonX accepts PersonY's apology	xWant	
+<xWant> PersonX accepts PersonY's apology	xWant	
+<oWant> PersonX accepts PersonY's apology	oWant	
+<xReact> PersonX accepts PersonY's apology	xReact	
+<oEffect> PersonX accepts PersonY's apology	oEffect	
+<xNeed> PersonX accepts PersonY's apology	xNeed	
+<oWant> PersonX accepts PersonY's apology	oWant	
+<xEffect> PersonX accepts PersonY's apology	xEffect	
+<xEffect> PersonX accepts PersonY's apology	xEffect	
+<oEffect> PersonX accepts PersonY's apology	oEffect	
+<oEffect> PersonX accepts PersonY's apology	oEffect	
+<xEffect> PersonX accepts PersonY's apology	xEffect	
+<xEffect> PersonX accepts PersonY's apology	xEffect	
+<xNeed> PersonX accepts PersonY's apology	xNeed	
+<oEffect> PersonX accepts PersonY's apology	oEffect	
+<xWant> PersonX accepts ___ in payment	xWant	
+<xNeed> PersonX accepts ___ in payment	xNeed	
+<oWant> PersonX accepts ___ in payment	oWant	
+<oWant> PersonX accepts ___ in payment	oWant	
+<xEffect> PersonX accepts ___ in payment	xEffect	
+<xEffect> PersonX accepts ___ in payment	xEffect	
+<oEffect> PersonX accepts ___ in payment	oEffect	
+<oEffect> PersonX accepts ___ in payment	oEffect	
+<xReact> PersonX accepts ___ in payment	xReact	
+<xIntent> PersonX accepts ___ in payment	xIntent	
+<oReact> PersonX accepts ___ in payment	oReact	
+<xWant> PersonX accepts ___ in payment	xWant	
+<oWant> PersonX accepts ___ in payment	oWant	
+<xNeed> PersonX accepts ___ in payment	xNeed	
+<xNeed> PersonX accepts ___ in payment	xNeed	
+<xNeed> PersonX accepts ___ in payment	xNeed	
+<xAttr> PersonX accepts ___ in payment	xAttr	
+<xAttr> PersonX accepts ___ in payment	xAttr	
+<xAttr> PersonX accepts ___ in payment	xAttr	
+<xAttr> PersonX accepts ___ in payment	xAttr	
+<xAttr> PersonX accepts ___ in payment	xAttr	
+<xAttr> PersonX accepts ___ in payment	xAttr	
+<xWant> PersonX accepts ___ in payment	xWant	
+<xWant> PersonX accepts ___ in payment	xWant	
+<xAttr> PersonX accidentally kicked	xAttr	
+<xAttr> PersonX accidentally kicked	xAttr	
+<xAttr> PersonX accidentally kicked	xAttr	
+<xAttr> PersonX accidentally kicked	xAttr	
+<xAttr> PersonX accidentally kicked	xAttr	
+<xWant> PersonX accidentally kicked	xWant	
+<xWant> PersonX accidentally kicked	xWant	
+<oReact> PersonX accidentally kicked	oReact	
+<xAttr> PersonX accidentally kicked	xAttr	
+<xIntent> PersonX accidentally kicked	xIntent	
+<xReact> PersonX accidentally kicked	xReact	
+<oReact> PersonX accidentally kicked	oReact	
+<xIntent> PersonX accidentally kicked	xIntent	
+<xReact> PersonX accidentally kicked	xReact	
+<xReact> PersonX accidentally kicked	xReact	
+<oReact> PersonX accidentally kicked	oReact	
+<xReact> PersonX accidentally kicked	xReact	
+<oEffect> PersonX accidentally kicked	oEffect	
+<xEffect> PersonX accidentally kicked	xEffect	
+<xEffect> PersonX accidentally kicked	xEffect	
+<oEffect> PersonX accidentally kicked	oEffect	
+<xEffect> PersonX accidentally kicked	xEffect	
+<xIntent> PersonX accidentally kicked	xIntent	
+<xEffect> PersonX accidentally kicked	xEffect	
+<xNeed> PersonX accidentally kicked	xNeed	
+<oEffect> PersonX accidentally kicked	oEffect	
+<oWant> PersonX accidentally kicked	oWant	
+<oWant> PersonX accidentally kicked	oWant	
+<xWant> PersonX accidentally kicked	xWant	
+<xNeed> PersonX accidentally kicked	xNeed	
+<oWant> PersonX accidentally kicked	oWant	
+<xWant> PersonX accidentally kicked	xWant	
+<xWant> PersonX accidentally kicked	xWant	
+<xNeed> PersonX accidentally kicked	xNeed	
+<xNeed> PersonX accidentally kicked	xNeed	
+<oWant> PersonX accidentally kicked	oWant	
+<xEffect> PersonX accidentally kicked	xEffect	
+<xWant> PersonX accidentally kicked	xWant	
+<xWant> PersonX accidentally kicked ___	xWant	
+<xEffect> PersonX accidentally kicked ___	xEffect	
+<xNeed> PersonX accidentally kicked ___	xNeed	
+<oWant> PersonX accidentally kicked ___	oWant	
+<xEffect> PersonX accidentally kicked ___	xEffect	
+<oEffect> PersonX accidentally kicked ___	oEffect	
+<xReact> PersonX accidentally kicked ___	xReact	
+<xEffect> PersonX accidentally kicked ___	xEffect	
+<xIntent> PersonX accidentally kicked ___	xIntent	
+<oEffect> PersonX accidentally kicked ___	oEffect	
+<xEffect> PersonX accidentally kicked ___	xEffect	
+<oEffect> PersonX accidentally kicked ___	oEffect	
+<xWant> PersonX accidentally kicked ___	xWant	
+<xEffect> PersonX accidentally kicked ___	xEffect	
+<oWant> PersonX accidentally kicked ___	oWant	
+<xNeed> PersonX accidentally kicked ___	xNeed	
+<xNeed> PersonX accidentally kicked ___	xNeed	
+<oReact> PersonX accidentally kicked ___	oReact	
+<xWant> PersonX accidentally kicked ___	xWant	
+<xNeed> PersonX accidentally kicked ___	xNeed	
+<oWant> PersonX accidentally kicked ___	oWant	
+<oWant> PersonX accidentally kicked ___	oWant	
+<xAttr> PersonX accidentally kicked ___	xAttr	
+<xNeed> PersonX accidentally kicked ___	xNeed	
+<xAttr> PersonX accidentally kicked ___	xAttr	
+<xAttr> PersonX accidentally kicked ___	xAttr	
+<xAttr> PersonX accidentally kicked ___	xAttr	
+<xAttr> PersonX accidentally kicked ___	xAttr	
+<xWant> PersonX accidentally kicked ___	xWant	
+<xWant> PersonX accidentally kicked ___	xWant	
+<xWant> PersonX accidentally kicked ___	xWant	
+<xAttr> PersonX accidentally kicked ___	xAttr	
+<xReact> PersonX accidentally kicked ___	xReact	
+<xEffect> PersonX accidentally kicked ___	xEffect	
+<oReact> PersonX accidentally kicked ___	oReact	
+<xReact> PersonX accidentally kicked ___	xReact	
+<xIntent> PersonX accidentally kicked ___	xIntent	
+<oReact> PersonX accidentally kicked ___	oReact	
+<xIntent> PersonX accidentally kicked ___	xIntent	
+<oReact> PersonX accidentally poured	oReact	
+<xReact> PersonX accidentally poured	xReact	
+<xReact> PersonX accidentally poured	xReact	
+<xIntent> PersonX accidentally poured	xIntent	
+<oReact> PersonX accidentally poured	oReact	
+<xReact> PersonX accidentally poured	xReact	
+<xReact> PersonX accidentally poured	xReact	
+<xIntent> PersonX accidentally poured	xIntent	
+<xIntent> PersonX accidentally poured	xIntent	
+<oReact> PersonX accidentally poured	oReact	
+<oWant> PersonX accidentally poured	oWant	
+<xReact> PersonX accidentally poured	xReact	
+<xReact> PersonX accidentally poured	xReact	
+<xNeed> PersonX accidentally poured	xNeed	
+<xWant> PersonX accidentally poured	xWant	
+<xNeed> PersonX accidentally poured	xNeed	
+<oWant> PersonX accidentally poured	oWant	
+<xWant> PersonX accidentally poured	xWant	
+<xWant> PersonX accidentally poured	xWant	
+<oEffect> PersonX accidentally poured	oEffect	
+<xEffect> PersonX accidentally poured	xEffect	
+<xEffect> PersonX accidentally poured	xEffect	
+<oEffect> PersonX accidentally poured	oEffect	
+<xEffect> PersonX accidentally poured	xEffect	
+<xEffect> PersonX accidentally poured	xEffect	
+<xNeed> PersonX accidentally poured	xNeed	
+<xNeed> PersonX accidentally poured	xNeed	
+<xWant> PersonX accidentally poured	xWant	
+<xNeed> PersonX accidentally poured	xNeed	
+<oWant> PersonX accidentally poured	oWant	
+<xAttr> PersonX accidentally poured	xAttr	
+<xAttr> PersonX accidentally poured	xAttr	
+<xAttr> PersonX accidentally poured	xAttr	
+<xAttr> PersonX accidentally poured	xAttr	
+<xWant> PersonX accidentally poured	xWant	
+<xWant> PersonX accidentally poured	xWant	
+<xAttr> PersonX accidentally poured	xAttr	
+<xAttr> PersonX accidentally poured	xAttr	
+<xAttr> PersonX accidentally ran	xAttr	
+<oReact> PersonX accidentally ran	oReact	
+<oReact> PersonX accidentally ran	oReact	
+<xWant> PersonX accidentally ran	xWant	
+<oWant> PersonX accidentally ran	oWant	
+<xNeed> PersonX accidentally ran	xNeed	
+<xWant> PersonX accidentally ran	xWant	
+<xWant> PersonX accidentally ran	xWant	
+<xAttr> PersonX accidentally ran	xAttr	
+<xAttr> PersonX accidentally ran	xAttr	
+<xAttr> PersonX accidentally ran	xAttr	
+<xWant> PersonX accidentally ran	xWant	
+<xReact> PersonX accidentally ran	xReact	
+<xIntent> PersonX accidentally ran	xIntent	
+<xWant> PersonX accidentally ran	xWant	
+<xIntent> PersonX accidentally ran	xIntent	
+<xReact> PersonX accidentally ran	xReact	
+<oEffect> PersonX accidentally ran	oEffect	
+<xEffect> PersonX accidentally ran	xEffect	
+<xEffect> PersonX accidentally ran	xEffect	
+<oEffect> PersonX accidentally ran	oEffect	
+<xEffect> PersonX accidentally ran	xEffect	
+<xEffect> PersonX accidentally ran	xEffect	
+<oEffect> PersonX accidentally ran	oEffect	
+<xReact> PersonX accidentally ran	xReact	
+<xReact> PersonX accidentally ran	xReact	
+<oWant> PersonX accidentally ran	oWant	
+<xNeed> PersonX accidentally ran	xNeed	
+<xEffect> PersonX accidentally ran	xEffect	
+<xEffect> PersonX accidentally ran	xEffect	
+<oWant> PersonX accidentally ran	oWant	
+<xNeed> PersonX accidentally ran	xNeed	
+<xWant> PersonX accidentally ran	xWant	
+<xIntent> PersonX accomplishes PersonX's ends	xIntent	
+<xEffect> PersonX accomplishes PersonX's ends	xEffect	
+<oEffect> PersonX accomplishes PersonX's ends	oEffect	
+<xReact> PersonX accomplishes PersonX's ends	xReact	
+<oReact> PersonX accomplishes PersonX's ends	oReact	
+<xEffect> PersonX accomplishes PersonX's ends	xEffect	
+<xWant> PersonX accomplishes PersonX's ends	xWant	
+<xEffect> PersonX accomplishes PersonX's ends	xEffect	
+<xWant> PersonX accomplishes PersonX's ends	xWant	
+<xWant> PersonX accomplishes PersonX's ends	xWant	
+<xAttr> PersonX accomplishes PersonX's ends	xAttr	
+<xAttr> PersonX accomplishes PersonX's ends	xAttr	
+<xAttr> PersonX accomplishes PersonX's ends	xAttr	
+<oEffect> PersonX accomplishes PersonX's ends	oEffect	
+<xAttr> PersonX accomplishes PersonX's ends	xAttr	
+<xAttr> PersonX accomplishes PersonX's ends	xAttr	
+<xAttr> PersonX accomplishes PersonX's ends	xAttr	
+<xEffect> PersonX accomplishes PersonX's ends	xEffect	
+<xNeed> PersonX accomplishes PersonX's ends	xNeed	
+<oWant> PersonX accomplishes PersonX's ends	oWant	
+<xWant> PersonX accomplishes PersonX's ends	xWant	
+<xNeed> PersonX accomplishes PersonX's ends	xNeed	
+<xNeed> PersonX accomplishes PersonX's ends	xNeed	
+<oWant> PersonX accomplishes PersonX's ends	oWant	
+<xNeed> PersonX accomplishes PersonX's ends	xNeed	
+<xAttr> PersonX accomplishes god 's ___	xAttr	
+<xNeed> PersonX accomplishes god 's ___	xNeed	
+<xWant> PersonX accomplishes god 's ___	xWant	
+<xWant> PersonX accomplishes god 's ___	xWant	
+<xAttr> PersonX accomplishes god 's ___	xAttr	
+<xAttr> PersonX accomplishes god 's ___	xAttr	
+<xAttr> PersonX accomplishes god 's ___	xAttr	
+<xAttr> PersonX accomplishes god 's ___	xAttr	
+<oWant> PersonX accomplishes god 's ___	oWant	
+<xAttr> PersonX accomplishes god 's ___	xAttr	
+<xAttr> PersonX accomplishes god 's ___	xAttr	
+<xAttr> PersonX accomplishes god 's ___	xAttr	
+<oWant> PersonX accomplishes god 's ___	oWant	
+<xNeed> PersonX accomplishes god 's ___	xNeed	
+<xEffect> PersonX accomplishes god 's ___	xEffect	
+<oReact> PersonX accomplishes god 's ___	oReact	
+<xReact> PersonX accomplishes god 's ___	xReact	
+<xIntent> PersonX accomplishes god 's ___	xIntent	
+<xIntent> PersonX accomplishes god 's ___	xIntent	
+<xEffect> PersonX accomplishes god 's ___	xEffect	
+<xIntent> PersonX accomplishes god 's ___	xIntent	
+<xReact> PersonX accomplishes god 's ___	xReact	
+<oReact> PersonX accomplishes god 's ___	oReact	
+<oReact> PersonX accomplishes god 's ___	oReact	
+<xIntent> PersonX accomplishes god 's ___	xIntent	
+<xReact> PersonX accomplishes god 's ___	xReact	
+<oEffect> PersonX accomplishes god 's ___	oEffect	
+<xEffect> PersonX accomplishes god 's ___	xEffect	
+<xEffect> PersonX accomplishes god 's ___	xEffect	
+<oEffect> PersonX accomplishes god 's ___	oEffect	
+<xReact> PersonX accomplishes god 's ___	xReact	
+<xAttr> PersonX achieves PersonX's purpose	xAttr	
+<xAttr> PersonX achieves PersonX's purpose	xAttr	
+<xAttr> PersonX achieves PersonX's purpose	xAttr	
+<xAttr> PersonX achieves PersonX's purpose	xAttr	
+<xAttr> PersonX achieves PersonX's purpose	xAttr	
+<xNeed> PersonX achieves PersonX's purpose	xNeed	
+<xEffect> PersonX achieves PersonX's purpose	xEffect	
+<oWant> PersonX achieves PersonX's purpose	oWant	
+<xEffect> PersonX achieves PersonX's purpose	xEffect	
+<oEffect> PersonX achieves PersonX's purpose	oEffect	
+<xEffect> PersonX achieves PersonX's purpose	xEffect	
+<oEffect> PersonX achieves PersonX's purpose	oEffect	
+<xNeed> PersonX achieves PersonX's purpose	xNeed	
+<xReact> PersonX achieves PersonX's purpose	xReact	
+<xWant> PersonX achieves PersonX's purpose	xWant	
+<xNeed> PersonX achieves PersonX's purpose	xNeed	
+<xWant> PersonX achieves PersonX's purpose	xWant	
+<xIntent> PersonX achieves PersonX's purpose	xIntent	
+<oReact> PersonX achieves PersonX's purpose	oReact	
+<xReact> PersonX achieves PersonX's purpose	xReact	
+<xReact> PersonX achieves PersonX's purpose	xReact	
+<xIntent> PersonX achieves PersonX's purpose	xIntent	
+<oReact> PersonX achieves PersonX's purpose	oReact	
+<xReact> PersonX achieves PersonX's purpose	xReact	
+<xWant> PersonX achieves PersonX's purpose	xWant	
+<xIntent> PersonX achieves PersonX's purpose	xIntent	
+<xAttr> PersonX achieves PersonX's purpose	xAttr	
+<xAttr> PersonX achieves PersonX's purpose	xAttr	
+<xWant> PersonX achieves PersonX's purpose	xWant	
+<xWant> PersonX achieves PersonX's purpose	xWant	
+<oEffect> PersonX achieves PersonX's purpose	oEffect	
+<xNeed> PersonX achieves PersonX's purpose	xNeed	
+<oWant> PersonX achieves PersonX's purpose	oWant	
+<oReact> PersonX achieves PersonX's purpose	oReact	
+<xEffect> PersonX achieves PersonX's purpose	xEffect	
+<xIntent> PersonX achieves PersonY level	xIntent	
+<oReact> PersonX achieves PersonY level	oReact	
+<xReact> PersonX achieves PersonY level	xReact	
+<xReact> PersonX achieves PersonY level	xReact	
+<oEffect> PersonX achieves PersonY level	oEffect	
+<xEffect> PersonX achieves PersonY level	xEffect	
+<xIntent> PersonX achieves PersonY level	xIntent	
+<xAttr> PersonX achieves PersonY level	xAttr	
+<xAttr> PersonX achieves PersonY level	xAttr	
+<xAttr> PersonX achieves PersonY level	xAttr	
+<xAttr> PersonX achieves PersonY level	xAttr	
+<xAttr> PersonX achieves PersonY level	xAttr	
+<xAttr> PersonX achieves PersonY level	xAttr	
+<xWant> PersonX achieves PersonY level	xWant	
+<xWant> PersonX achieves PersonY level	xWant	
+<xNeed> PersonX achieves PersonY level	xNeed	
+<xNeed> PersonX achieves PersonY level	xNeed	
+<oWant> PersonX achieves PersonY level	oWant	
+<xWant> PersonX achieves PersonY level	xWant	
+<xWant> PersonX achieves PersonY level	xWant	
+<xNeed> PersonX achieves PersonY level	xNeed	
+<xNeed> PersonX achieves PersonY level	xNeed	
+<oWant> PersonX achieves PersonY level	oWant	
+<oWant> PersonX achieves PersonY level	oWant	
+<xEffect> PersonX achieves PersonY level	xEffect	
+<oEffect> PersonX achieves PersonY level	oEffect	
+<xEffect> PersonX achieves PersonY level	xEffect	
+<xEffect> PersonX achieves PersonY level	xEffect	
+<oEffect> PersonX achieves PersonY level	oEffect	
+<oEffect> PersonX achieves PersonY level	oEffect	
+<xEffect> PersonX achieves PersonY level	xEffect	
+<oEffect> PersonX achieves PersonY level	oEffect	
+<oReact> PersonX achieves PersonY level	oReact	
+<xEffect> PersonX achieves PersonY level	xEffect	
+<xEffect> PersonX acts upon PersonY	xEffect	
+<xWant> PersonX acts upon PersonY	xWant	
+<xWant> PersonX acts upon PersonY	xWant	
+<xAttr> PersonX acts upon PersonY	xAttr	
+<xAttr> PersonX acts upon PersonY	xAttr	
+<oEffect> PersonX acts upon PersonY	oEffect	
+<xReact> PersonX acts upon PersonY	xReact	
+<oWant> PersonX acts upon PersonY	oWant	
+<xIntent> PersonX acts upon PersonY	xIntent	
+<oEffect> PersonX acts upon PersonY	oEffect	
+<xAttr> PersonX acts upon PersonY	xAttr	
+<xAttr> PersonX acts upon PersonY	xAttr	
+<xAttr> PersonX acts upon PersonY	xAttr	
+<xAttr> PersonX acts upon PersonY	xAttr	
+<xAttr> PersonX acts upon PersonY	xAttr	
+<oReact> PersonX acts upon PersonY	oReact	
+<xWant> PersonX acts upon PersonY	xWant	
+<xAttr> PersonX acts upon PersonY	xAttr	
+<oWant> PersonX acts upon PersonY	oWant	
+<xEffect> PersonX acts upon PersonY	xEffect	
+<xWant> PersonX acts upon PersonY	xWant	
+<oEffect> PersonX acts upon PersonY	oEffect	
+<xEffect> PersonX acts upon PersonY	xEffect	
+<xEffect> PersonX acts upon PersonY	xEffect	
+<xNeed> PersonX acts upon PersonY	xNeed	
+<xNeed> PersonX acts upon PersonY	xNeed	
+<oEffect> PersonX acts upon PersonY	oEffect	
+<xNeed> PersonX acts upon PersonY	xNeed	
+<oWant> PersonX acts upon PersonY	oWant	
+<oWant> PersonX acts upon PersonY	oWant	
+<xWant> PersonX acts upon PersonY	xWant	
+<xWant> PersonX acts upon PersonY	xWant	
+<oWant> PersonX acts upon PersonY	oWant	
+<xNeed> PersonX acts upon PersonY	xNeed	
+<oEffect> PersonX advances another ___	oEffect	
+<xEffect> PersonX advances another ___	xEffect	
+<xEffect> PersonX advances another ___	xEffect	
+<oEffect> PersonX advances another ___	oEffect	
+<xEffect> PersonX advances another ___	xEffect	
+<xIntent> PersonX advances another ___	xIntent	
+<oEffect> PersonX advances another ___	oEffect	
+<xReact> PersonX advances another ___	xReact	
+<xIntent> PersonX advances another ___	xIntent	
+<oReact> PersonX advances another ___	oReact	
+<xEffect> PersonX advances another ___	xEffect	
+<xEffect> PersonX advances another ___	xEffect	
+<xEffect> PersonX advances another ___	xEffect	
+<xIntent> PersonX advances another ___	xIntent	
+<xNeed> PersonX advances another ___	xNeed	
+<xAttr> PersonX advances another ___	xAttr	
+<xAttr> PersonX advances another ___	xAttr	
+<xAttr> PersonX advances another ___	xAttr	
+<oWant> PersonX advances another ___	oWant	
+<xAttr> PersonX advances another ___	xAttr	
+<xAttr> PersonX advances another ___	xAttr	
+<xAttr> PersonX advances another ___	xAttr	
+<xAttr> PersonX advances another ___	xAttr	
+<xAttr> PersonX advances another ___	xAttr	
+<xWant> PersonX advances another ___	xWant	
+<oWant> PersonX advances another ___	oWant	
+<xNeed> PersonX advances another ___	xNeed	
+<xWant> PersonX advances another ___	xWant	
+<xWant> PersonX advances another ___	xWant	
+<xNeed> PersonX advances another ___	xNeed	
+<xWant> PersonX advances another ___	xWant	
+<xNeed> PersonX advances another ___	xNeed	
+<xWant> PersonX advertises PersonX's business	xWant	
+<oReact> PersonX advertises PersonX's business	oReact	
+<xNeed> PersonX advertises PersonX's business	xNeed	
+<xReact> PersonX advertises PersonX's business	xReact	
+<oReact> PersonX advertises PersonX's business	oReact	
+<xIntent> PersonX advertises PersonX's business	xIntent	
+<xReact> PersonX advertises PersonX's business	xReact	
+<oReact> PersonX advertises PersonX's business	oReact	
+<xEffect> PersonX advertises PersonX's business	xEffect	
+<oWant> PersonX advertises PersonX's business	oWant	
+<xNeed> PersonX advertises PersonX's business	xNeed	
+<xNeed> PersonX advertises PersonX's business	xNeed	
+<xWant> PersonX advertises PersonX's business	xWant	
+<xWant> PersonX advertises PersonX's business	xWant	
+<oWant> PersonX advertises PersonX's business	oWant	
+<xNeed> PersonX advertises PersonX's business	xNeed	
+<xNeed> PersonX advertises PersonX's business	xNeed	
+<xWant> PersonX advertises PersonX's business	xWant	
+<oWant> PersonX advertises PersonX's business	oWant	
+<xNeed> PersonX advertises PersonX's business	xNeed	
+<xIntent> PersonX advertises PersonX's business	xIntent	
+<xEffect> PersonX advertises PersonX's business	xEffect	
+<xWant> PersonX advertises PersonX's business	xWant	
+<xAttr> PersonX advertises PersonX's business	xAttr	
+<xAttr> PersonX advertises PersonX's business	xAttr	
+<xAttr> PersonX advertises PersonX's business	xAttr	
+<xAttr> PersonX advertises PersonX's business	xAttr	
+<xAttr> PersonX advertises PersonX's business	xAttr	
+<xAttr> PersonX advertises PersonX's business	xAttr	
+<xWant> PersonX advertises PersonX's business	xWant	
+<xAttr> PersonX advertises PersonX's business	xAttr	
+<xIntent> PersonX advertises PersonX's business	xIntent	
+<xReact> PersonX advertises PersonX's business	xReact	
+<oEffect> PersonX advertises PersonX's business	oEffect	
+<xEffect> PersonX advertises PersonX's business	xEffect	
+<xEffect> PersonX advertises PersonX's business	xEffect	
+<oEffect> PersonX advertises PersonX's business	oEffect	
+<xEffect> PersonX advertises PersonY's business	xEffect	
+<oReact> PersonX advertises PersonY's business	oReact	
+<xNeed> PersonX advertises PersonY's business	xNeed	
+<xNeed> PersonX advertises PersonY's business	xNeed	
+<xReact> PersonX advertises PersonY's business	xReact	
+<oWant> PersonX advertises PersonY's business	oWant	
+<xIntent> PersonX advertises PersonY's business	xIntent	
+<xEffect> PersonX advertises PersonY's business	xEffect	
+<xEffect> PersonX advertises PersonY's business	xEffect	
+<oEffect> PersonX advertises PersonY's business	oEffect	
+<oEffect> PersonX advertises PersonY's business	oEffect	
+<xEffect> PersonX advertises PersonY's business	xEffect	
+<oWant> PersonX advertises PersonY's business	oWant	
+<oReact> PersonX advertises PersonY's business	oReact	
+<oWant> PersonX advertises PersonY's business	oWant	
+<xReact> PersonX advertises PersonY's business	xReact	
+<xAttr> PersonX advertises PersonY's business	xAttr	
+<xAttr> PersonX advertises PersonY's business	xAttr	
+<xAttr> PersonX advertises PersonY's business	xAttr	
+<xAttr> PersonX advertises PersonY's business	xAttr	
+<xAttr> PersonX advertises PersonY's business	xAttr	
+<xAttr> PersonX advertises PersonY's business	xAttr	
+<xWant> PersonX advertises PersonY's business	xWant	
+<xWant> PersonX advertises PersonY's business	xWant	
+<xNeed> PersonX advertises PersonY's business	xNeed	
+<xNeed> PersonX advertises PersonY's business	xNeed	
+<oEffect> PersonX advertises PersonY's business	oEffect	
+<xWant> PersonX advertises PersonY's business	xWant	
+<xWant> PersonX advertises PersonY's business	xWant	
+<xNeed> PersonX advertises PersonY's business	xNeed	
+<xNeed> PersonX advertises PersonY's business	xNeed	
+<oWant> PersonX advertises PersonY's business	oWant	
+<oWant> PersonX advertises PersonY's business	oWant	
+<xWant> PersonX advertises PersonY's business	xWant	
+<xWant> PersonX advertises PersonY's business	xWant	
+<oReact> PersonX advertises PersonY's business	oReact	
+<xIntent> PersonX advertises PersonY's business	xIntent	
+<oReact> PersonX advertises PersonY's business	oReact	
+<oEffect> PersonX advertises PersonY's business	oEffect	
+<xReact> PersonX advertises PersonY's business	xReact	
+<xEffect> PersonX advertises PersonY's business	xEffect	
+<xIntent> PersonX advertises PersonY's business	xIntent	
+<xReact> PersonX advertises PersonY's business	xReact	
+<xEffect> PersonX advertises PersonY's business	xEffect	
+<oEffect> PersonX advertises PersonY's business	oEffect	
+<oEffect> PersonX advertises PersonY's business	oEffect	
+<xIntent> PersonX affects PersonY deeply	xIntent	
+<xReact> PersonX affects PersonY deeply	xReact	
+<oEffect> PersonX affects PersonY deeply	oEffect	
+<oEffect> PersonX affects PersonY deeply	oEffect	
+<xEffect> PersonX affects PersonY deeply	xEffect	
+<xEffect> PersonX affects PersonY deeply	xEffect	
+<oEffect> PersonX affects PersonY deeply	oEffect	
+<oEffect> PersonX affects PersonY deeply	oEffect	
+<xEffect> PersonX affects PersonY deeply	xEffect	
+<xEffect> PersonX affects PersonY deeply	xEffect	
+<xNeed> PersonX affects PersonY deeply	xNeed	
+<xNeed> PersonX affects PersonY deeply	xNeed	
+<xNeed> PersonX affects PersonY deeply	xNeed	
+<oReact> PersonX affects PersonY deeply	oReact	
+<xWant> PersonX affects PersonY deeply	xWant	
+<xWant> PersonX affects PersonY deeply	xWant	
+<oWant> PersonX affects PersonY deeply	oWant	
+<oWant> PersonX affects PersonY deeply	oWant	
+<xWant> PersonX affects PersonY deeply	xWant	
+<xWant> PersonX affects PersonY deeply	xWant	
+<xAttr> PersonX affects PersonY deeply	xAttr	
+<xAttr> PersonX affects PersonY deeply	xAttr	
+<xAttr> PersonX affects PersonY deeply	xAttr	
+<xAttr> PersonX affects PersonY deeply	xAttr	
+<xAttr> PersonX affects PersonY deeply	xAttr	
+<oWant> PersonX affects PersonY deeply	oWant	
+<oWant> PersonX affects PersonY deeply	oWant	
+<xAttr> PersonX affects PersonY deeply	xAttr	
+<xAttr> PersonX agrees on anything	xAttr	
+<xReact> PersonX agrees on anything	xReact	
+<xReact> PersonX agrees on anything	xReact	
+<oWant> PersonX agrees on anything	oWant	
+<xNeed> PersonX agrees on anything	xNeed	
+<xWant> PersonX agrees on anything	xWant	
+<xAttr> PersonX agrees on anything	xAttr	
+<oWant> PersonX agrees on anything	oWant	
+<xAttr> PersonX agrees on anything	xAttr	
+<xAttr> PersonX agrees on anything	xAttr	
+<xAttr> PersonX agrees on anything	xAttr	
+<oEffect> PersonX agrees on anything	oEffect	
+<xEffect> PersonX agrees on anything	xEffect	
+<oEffect> PersonX agrees on anything	oEffect	
+<xEffect> PersonX agrees on anything	xEffect	
+<xAttr> PersonX agrees on anything	xAttr	
+<xNeed> PersonX agrees on anything	xNeed	
+<xWant> PersonX agrees on anything	xWant	
+<xWant> PersonX agrees on anything	xWant	
+<oReact> PersonX agrees on anything	oReact	
+<oReact> PersonX agrees on anything	oReact	
+<xNeed> PersonX agrees on anything	xNeed	
+<xIntent> PersonX agrees on anything	xIntent	
+<xIntent> PersonX agrees on anything	xIntent	
+<oReact> PersonX agrees on anything	oReact	
+<xWant> PersonX agrees on anything	xWant	
+<xWant> PersonX agrees on anything	xWant	
+<xReact> PersonX agrees on anything	xReact	
+<oWant> PersonX agrees on anything	oWant	
+<xWant> PersonX agrees on anything	xWant	
+<xWant> PersonX agrees on anything	xWant	
+<xNeed> PersonX agrees on anything	xNeed	
+<oWant> PersonX agrees on anything	oWant	
+<xWant> PersonX agrees on anything	xWant	
+<xNeed> PersonX agrees on anything	xNeed	
+<xNeed> PersonX agrees to disagree	xNeed	
+<xNeed> PersonX agrees to disagree	xNeed	
+<xNeed> PersonX agrees to disagree	xNeed	
+<xWant> PersonX agrees to disagree	xWant	
+<xWant> PersonX agrees to disagree	xWant	
+<xAttr> PersonX agrees to disagree	xAttr	
+<xAttr> PersonX agrees to disagree	xAttr	
+<xWant> PersonX agrees to disagree	xWant	
+<xNeed> PersonX agrees to disagree	xNeed	
+<oWant> PersonX agrees to disagree	oWant	
+<xWant> PersonX agrees to disagree	xWant	
+<xEffect> PersonX agrees to disagree	xEffect	
+<oEffect> PersonX agrees to disagree	oEffect	
+<oWant> PersonX agrees to disagree	oWant	
+<xReact> PersonX agrees to disagree	xReact	
+<xIntent> PersonX agrees to disagree	xIntent	
+<oReact> PersonX agrees to disagree	oReact	
+<xReact> PersonX agrees to disagree	xReact	
+<xEffect> PersonX agrees to disagree	xEffect	
+<xIntent> PersonX agrees to disagree	xIntent	
+<xWant> PersonX agrees to disagree	xWant	
+<xWant> PersonX agrees to disagree	xWant	
+<oWant> PersonX agrees to disagree	oWant	
+<oWant> PersonX agrees to disagree	oWant	
+<xNeed> PersonX agrees to disagree	xNeed	
+<xNeed> PersonX agrees to disagree	xNeed	
+<oReact> PersonX agrees to disagree	oReact	
+<xEffect> PersonX agrees to disagree	xEffect	
+<oWant> PersonX agrees to disagree	oWant	
+<oEffect> PersonX agrees to disagree	oEffect	
+<xEffect> PersonX agrees to disagree	xEffect	
+<oEffect> PersonX agrees to disagree	oEffect	
+<xEffect> PersonX agrees to disagree	xEffect	
+<xEffect> PersonX agrees to disagree	xEffect	
+<xEffect> PersonX agrees to disagree	xEffect	
+<xEffect> PersonX agrees to disagree	xEffect	
+<xNeed> PersonX also liked ___	xNeed	
+<oWant> PersonX also liked ___	oWant	
+<oWant> PersonX also liked ___	oWant	
+<xEffect> PersonX also liked ___	xEffect	
+<xEffect> PersonX also liked ___	xEffect	
+<xEffect> PersonX also liked ___	xEffect	
+<oEffect> PersonX also liked ___	oEffect	
+<oEffect> PersonX also liked ___	oEffect	
+<xNeed> PersonX also liked ___	xNeed	
+<xEffect> PersonX also liked ___	xEffect	
+<oEffect> PersonX also liked ___	oEffect	
+<xReact> PersonX also liked ___	xReact	
+<xNeed> PersonX also liked ___	xNeed	
+<xEffect> PersonX also liked ___	xEffect	
+<xWant> PersonX also liked ___	xWant	
+<oWant> PersonX also liked ___	oWant	
+<xWant> PersonX also liked ___	xWant	
+<oWant> PersonX also liked ___	oWant	
+<oReact> PersonX also liked ___	oReact	
+<xIntent> PersonX also liked ___	xIntent	
+<xReact> PersonX also liked ___	xReact	
+<oReact> PersonX also liked ___	oReact	
+<xIntent> PersonX also liked ___	xIntent	
+<xNeed> PersonX also liked ___	xNeed	
+<xWant> PersonX also liked ___	xWant	
+<xWant> PersonX also liked ___	xWant	
+<oEffect> PersonX also stopped	oEffect	
+<xIntent> PersonX also stopped	xIntent	
+<xReact> PersonX also stopped	xReact	
+<xIntent> PersonX also stopped	xIntent	
+<xEffect> PersonX also stopped	xEffect	
+<xReact> PersonX also stopped	xReact	
+<oReact> PersonX also stopped	oReact	
+<xWant> PersonX also stopped	xWant	
+<xWant> PersonX also stopped	xWant	
+<xNeed> PersonX also stopped	xNeed	
+<oWant> PersonX also stopped	oWant	
+<xEffect> PersonX also stopped	xEffect	
+<xEffect> PersonX also stopped	xEffect	
+<oEffect> PersonX also stopped	oEffect	
+<xEffect> PersonX also stopped	xEffect	
+<xEffect> PersonX also stopped	xEffect	
+<oEffect> PersonX also stopped	oEffect	
+<xEffect> PersonX also stopped	xEffect	
+<xIntent> PersonX also stopped	xIntent	
+<oReact> PersonX also stopped	oReact	
+<xIntent> PersonX alters PersonX's course	xIntent	
+<xIntent> PersonX alters PersonX's course	xIntent	
+<xNeed> PersonX alters PersonX's course	xNeed	
+<xWant> PersonX alters PersonX's course	xWant	
+<xWant> PersonX alters PersonX's course	xWant	
+<xNeed> PersonX alters PersonX's course	xNeed	
+<oWant> PersonX alters PersonX's course	oWant	
+<oWant> PersonX alters PersonX's course	oWant	
+<xEffect> PersonX alters PersonX's course	xEffect	
+<xEffect> PersonX alters PersonX's course	xEffect	
+<xEffect> PersonX alters PersonX's course	xEffect	
+<oEffect> PersonX alters PersonX's course	oEffect	
+<oEffect> PersonX alters PersonX's course	oEffect	
+<xEffect> PersonX alters PersonX's course	xEffect	
+<xEffect> PersonX alters PersonX's course	xEffect	
+<oReact> PersonX alters PersonX's course	oReact	
+<xIntent> PersonX alters PersonX's course	xIntent	
+<xReact> PersonX alters PersonX's course	xReact	
+<oReact> PersonX alters PersonX's course	oReact	
+<xEffect> PersonX alters PersonX's course	xEffect	
+<xReact> PersonX alters PersonX's course	xReact	
+<xReact> PersonX alters PersonX's course	xReact	
+<xReact> PersonX alters PersonX's course	xReact	
+<xNeed> PersonX alters PersonY's course	xNeed	
+<xWant> PersonX alters PersonY's course	xWant	
+<xWant> PersonX alters PersonY's course	xWant	
+<oWant> PersonX alters PersonY's course	oWant	
+<xNeed> PersonX alters PersonY's course	xNeed	
+<xNeed> PersonX alters PersonY's course	xNeed	
+<xWant> PersonX alters PersonY's course	xWant	
+<xNeed> PersonX alters PersonY's course	xNeed	
+<xWant> PersonX alters PersonY's course	xWant	
+<oWant> PersonX alters PersonY's course	oWant	
+<oWant> PersonX alters PersonY's course	oWant	
+<xNeed> PersonX alters PersonY's course	xNeed	
+<xReact> PersonX alters PersonY's course	xReact	
+<oEffect> PersonX alters PersonY's course	oEffect	
+<xEffect> PersonX alters PersonY's course	xEffect	
+<oEffect> PersonX alters PersonY's course	oEffect	
+<xEffect> PersonX alters PersonY's course	xEffect	
+<oWant> PersonX alters PersonY's course	oWant	
+<oWant> PersonX alters PersonY's course	oWant	
+<oWant> PersonX alters PersonY's course	oWant	
+<oReact> PersonX alters PersonY's course	oReact	
+<xIntent> PersonX alters PersonY's course	xIntent	
+<xEffect> PersonX always asked	xEffect	
+<xNeed> PersonX always asked	xNeed	
+<oWant> PersonX always asked	oWant	
+<xNeed> PersonX always asked	xNeed	
+<oReact> PersonX always asked	oReact	
+<xIntent> PersonX always asked	xIntent	
+<xReact> PersonX always asked	xReact	
+<oReact> PersonX always asked	oReact	
+<xIntent> PersonX always asked	xIntent	
+<xReact> PersonX always asked	xReact	
+<oEffect> PersonX always asked	oEffect	
+<xEffect> PersonX always asked	xEffect	
+<oWant> PersonX always asked	oWant	
+<xNeed> PersonX always asked	xNeed	
+<oWant> PersonX always asked	oWant	
+<xNeed> PersonX always asked	xNeed	
+<xNeed> PersonX always asked	xNeed	
+<oReact> PersonX always asked ___	oReact	
+<oReact> PersonX always asked ___	oReact	
+<xIntent> PersonX always asked ___	xIntent	
+<xIntent> PersonX always asked ___	xIntent	
+<xIntent> PersonX always asked ___	xIntent	
+<oReact> PersonX always asked ___	oReact	
+<xReact> PersonX always asked ___	xReact	
+<xReact> PersonX always asked ___	xReact	
+<xNeed> PersonX always asked ___	xNeed	
+<xNeed> PersonX always asked ___	xNeed	
+<oWant> PersonX always asked ___	oWant	
+<oWant> PersonX always asked ___	oWant	
+<xEffect> PersonX always asked ___	xEffect	
+<xEffect> PersonX always asked ___	xEffect	
+<xEffect> PersonX always asked ___	xEffect	
+<xEffect> PersonX always asked ___	xEffect	
+<oEffect> PersonX always asked ___	oEffect	
+<xReact> PersonX always asked ___	xReact	
+<oEffect> PersonX always asked ___	oEffect	
+<xNeed> PersonX always beat	xNeed	
+<xNeed> PersonX always beat	xNeed	
+<oWant> PersonX always beat	oWant	
+<oWant> PersonX always beat	oWant	
+<xNeed> PersonX always beat	xNeed	
+<oWant> PersonX always beat	oWant	
+<oWant> PersonX always beat	oWant	
+<xNeed> PersonX always beat	xNeed	
+<xNeed> PersonX always beat	xNeed	
+<xNeed> PersonX always beat	xNeed	
+<oWant> PersonX always beat	oWant	
+<oWant> PersonX always beat	oWant	
+<xNeed> PersonX always beat	xNeed	
+<xNeed> PersonX always beat	xNeed	
+<xReact> PersonX always beat	xReact	
+<xEffect> PersonX always beat	xEffect	
+<oEffect> PersonX always beat	oEffect	
+<xEffect> PersonX always beat	xEffect	
+<oWant> PersonX always beat	oWant	
+<oEffect> PersonX always beat	oEffect	
+<xIntent> PersonX always beat	xIntent	
+<xReact> PersonX always beat	xReact	
+<oReact> PersonX always beat	oReact	
+<xIntent> PersonX always beat	xIntent	
+<xReact> PersonX always beat	xReact	
+<oEffect> PersonX always beat	oEffect	
+<oReact> PersonX always beat	oReact	
+<oEffect> PersonX always beat	oEffect	
+<oWant> PersonX always beat ___	oWant	
+<oReact> PersonX always beat ___	oReact	
+<xNeed> PersonX always beat ___	xNeed	
+<oWant> PersonX always beat ___	oWant	
+<xNeed> PersonX always beat ___	xNeed	
+<xIntent> PersonX always beat ___	xIntent	
+<xReact> PersonX always beat ___	xReact	
+<oWant> PersonX always beat ___	oWant	
+<oEffect> PersonX always beat ___	oEffect	
+<oEffect> PersonX always beat ___	oEffect	
+<xNeed> PersonX always beat ___	xNeed	
+<oWant> PersonX always beat ___	oWant	
+<oWant> PersonX always beat ___	oWant	
+<xNeed> PersonX always beat ___	xNeed	
+<xNeed> PersonX always beat ___	xNeed	
+<oEffect> PersonX always beat ___	oEffect	
+<xReact> PersonX always beat ___	xReact	
+<oReact> PersonX always beat ___	oReact	
+<xIntent> PersonX always beat ___	xIntent	
+<xReact> PersonX always goes	xReact	
+<oWant> PersonX always goes	oWant	
+<xIntent> PersonX always goes	xIntent	
+<oReact> PersonX always goes	oReact	
+<oWant> PersonX always goes	oWant	
+<oEffect> PersonX always goes	oEffect	
+<oEffect> PersonX always goes	oEffect	
+<xReact> PersonX always goes	xReact	
+<xIntent> PersonX always goes	xIntent	
+<oReact> PersonX always goes	oReact	
+<oWant> PersonX always goes	oWant	
+<xReact> PersonX always made	xReact	
+<oReact> PersonX always made	oReact	
+<xIntent> PersonX always made	xIntent	
+<xIntent> PersonX always made	xIntent	
+<xReact> PersonX always made	xReact	
+<oReact> PersonX always made	oReact	
+<xIntent> PersonX always made	xIntent	
+<oEffect> PersonX always made	oEffect	
+<oEffect> PersonX always made	oEffect	
+<oEffect> PersonX always made	oEffect	
+<oWant> PersonX always made	oWant	
+<oWant> PersonX always made	oWant	
+<xReact> PersonX always made	xReact	
+<oWant> PersonX always made	oWant	
+<oWant> PersonX always made ___	oWant	
+<oWant> PersonX always made ___	oWant	
+<oWant> PersonX always made ___	oWant	
+<oWant> PersonX always made ___	oWant	
+<oWant> PersonX always made ___	oWant	
+<oEffect> PersonX always made ___	oEffect	
+<oEffect> PersonX always made ___	oEffect	
+<oReact> PersonX always made ___	oReact	
+<xIntent> PersonX always made ___	xIntent	
+<oReact> PersonX always made ___	oReact	
+<oEffect> PersonX always made ___	oEffect	
+<oEffect> PersonX always made ___	oEffect	
+<xReact> PersonX always made ___	xReact	
+<xIntent> PersonX always made ___	xIntent	
+<xReact> PersonX always made ___	xReact	
+<oReact> PersonX always made ___	oReact	
+<xIntent> PersonX always made ___	xIntent	
+<xReact> PersonX always made ___	xReact	
+<oReact> PersonX always makes	oReact	
+<xIntent> PersonX always makes	xIntent	
+<xReact> PersonX always makes	xReact	
+<oEffect> PersonX always makes	oEffect	
+<oEffect> PersonX always makes	oEffect	
+<oEffect> PersonX always makes ___	oEffect	
+<oEffect> PersonX always makes ___	oEffect	
+<xReact> PersonX always makes ___	xReact	
+<oEffect> PersonX always makes ___	oEffect	
+<oReact> PersonX always makes ___	oReact	
+<xIntent> PersonX always makes ___	xIntent	
+<xReact> PersonX always makes ___	xReact	
+<oReact> PersonX always makes ___	oReact	
+<xIntent> PersonX always makes ___	xIntent	
+<oEffect> PersonX always worked	oEffect	
+<oReact> PersonX always worked	oReact	
+<xReact> PersonX always worked	xReact	
+<xIntent> PersonX always worked	xIntent	
+<xIntent> PersonX always worked	xIntent	
+<oReact> PersonX always worked	oReact	
+<xReact> PersonX always worked	xReact	
+<xIntent> PersonX always worked	xIntent	
+<xReact> PersonX always worked	xReact	
+<oEffect> PersonX announces PersonX's decision	oEffect	
+<xReact> PersonX announces PersonX's decision	xReact	
+<xIntent> PersonX announces PersonX's decision	xIntent	
+<oReact> PersonX announces PersonX's decision	oReact	
+<xReact> PersonX announces PersonX's decision	xReact	
+<oReact> PersonX announces PersonX's decision	oReact	
+<xIntent> PersonX announces PersonX's decision	xIntent	
+<oReact> PersonX announces PersonX's decision	oReact	
+<xIntent> PersonX announces PersonX's decision	xIntent	
+<xReact> PersonX announces PersonX's decision	xReact	
+<oEffect> PersonX announces PersonX's decision	oEffect	
+<oEffect> PersonX announces PersonX's decision	oEffect	
+<xReact> PersonX announces PersonY's decision	xReact	
+<oReact> PersonX announces PersonY's decision	oReact	
+<oEffect> PersonX announces PersonY's decision	oEffect	
+<xIntent> PersonX announces PersonY's decision	xIntent	
+<xIntent> PersonX announces PersonY's decision	xIntent	
+<oReact> PersonX announces PersonY's decision	oReact	
+<xReact> PersonX announces PersonY's decision	xReact	
+<oEffect> PersonX announces PersonY's decision	oEffect	
+<oEffect> PersonX announces PersonY's decision	oEffect	
+<oEffect> PersonX announces PersonY's decision	oEffect	
+<xReact> PersonX announces PersonY's decision	xReact	
+<oReact> PersonX announces PersonY's decision	oReact	
+<oEffect> PersonX announces PersonY's decision	oEffect	
+<oEffect> PersonX announces PersonY's decision	oEffect	
+<xIntent> PersonX announces PersonY's decision	xIntent	
+<oEffect> PersonX answers this ___ in the negative	oEffect	
+<xReact> PersonX answers this ___ in the negative	xReact	
+<xIntent> PersonX answers this ___ in the negative	xIntent	
+<oReact> PersonX answers this ___ in the negative	oReact	
+<xReact> PersonX answers this ___ in the negative	xReact	
+<xIntent> PersonX answers this ___ in the negative	xIntent	
+<oReact> PersonX answers this ___ in the negative	oReact	
+<oEffect> PersonX answers this ___ in the negative	oEffect	
+<oEffect> PersonX answers this ___ in the negative	oEffect	
+<xReact> PersonX applies for jobs	xReact	
+<oEffect> PersonX applies for jobs	oEffect	
+<oReact> PersonX applies for jobs	oReact	
+<xIntent> PersonX applies for jobs	xIntent	
+<xReact> PersonX applies for jobs	xReact	
+<oReact> PersonX applies for jobs	oReact	
+<xIntent> PersonX applies for jobs	xIntent	
+<xIntent> PersonX applies for jobs	xIntent	
+<xReact> PersonX applies for jobs	xReact	
+<oEffect> PersonX applies for jobs	oEffect	
+<xReact> PersonX applies for jobs	xReact	
+<oReact> PersonX applies for jobs	oReact	
+<xIntent> PersonX applies for jobs	xIntent	
+<xReact> PersonX applies for jobs	xReact	
+<oEffect> PersonX applies for jobs	oEffect	
+<oEffect> PersonX applies to jobs	oEffect	
+<oEffect> PersonX applies to jobs	oEffect	
+<xIntent> PersonX applies to jobs	xIntent	
+<oEffect> PersonX applies to jobs	oEffect	
+<xIntent> PersonX applies to jobs	xIntent	
+<xReact> PersonX applies to jobs	xReact	
+<xReact> PersonX applies to jobs	xReact	
+<oReact> PersonX applies to jobs	oReact	
+<xIntent> PersonX applies to jobs	xIntent	
+<xIntent> PersonX applies to jobs	xIntent	
+<xReact> PersonX applies to jobs	xReact	
+<xReact> PersonX applies to jobs	xReact	
+<oReact> PersonX applies to jobs	oReact	
+<xIntent> PersonX applies to jobs	xIntent	
+<xIntent> PersonX applies to jobs	xIntent	
+<xReact> PersonX applies to jobs	xReact	
+<xReact> PersonX applies to jobs	xReact	
+<xIntent> PersonX applies to jobs	xIntent	
+<oReact> PersonX applies to jobs	oReact	
+<xIntent> PersonX applies to jobs	xIntent	
+<xReact> PersonX applies to jobs	xReact	
+<oEffect> PersonX applies to jobs	oEffect	
+<oReact> PersonX appoints a ___ to investigate	oReact	
+<xReact> PersonX appoints a ___ to investigate	xReact	
+<oEffect> PersonX appoints a ___ to investigate	oEffect	
+<xIntent> PersonX appoints a ___ to investigate	xIntent	
+<oReact> PersonX arches PersonY back	oReact	
+<xReact> PersonX arches PersonY back	xReact	
+<xIntent> PersonX arches PersonY back	xIntent	
+<oReact> PersonX arches PersonY's back	oReact	
+<xIntent> PersonX arches PersonY's back	xIntent	
+<xReact> PersonX arches PersonY's back	xReact	
+<oReact> PersonX arches PersonY's back	oReact	
+<xIntent> PersonX arches PersonY's back	xIntent	
+<xReact> PersonX arches PersonY's back	xReact	
+<xReact> PersonX arches PersonY's body	xReact	
+<oReact> PersonX arches PersonY's body	oReact	
+<xIntent> PersonX arches PersonY's body	xIntent	
+<oReact> PersonX arches PersonY's body	oReact	
+<xIntent> PersonX arches PersonY's body	xIntent	
+<xReact> PersonX arches PersonY's body	xReact	
+<xReact> PersonX arches PersonY's body	xReact	
+<oReact> PersonX argues with PersonX's boyfriend	oReact	
+<xIntent> PersonX argues with PersonX's boyfriend	xIntent	
+<oReact> PersonX argues with PersonX's boyfriend	oReact	
+<xReact> PersonX argues with PersonX's boyfriend	xReact	
+<xIntent> PersonX argues with PersonX's boyfriend	xIntent	
+<oReact> PersonX argues with PersonX's boyfriend	oReact	
+<xIntent> PersonX argues with PersonX's boyfriend	xIntent	
+<xIntent> PersonX argues with PersonX's boyfriend	xIntent	
+<xReact> PersonX argues with PersonX's boyfriend	xReact	
+<oReact> PersonX argues with PersonY's boyfriend	oReact	
+<xIntent> PersonX argues with PersonY's boyfriend	xIntent	
+<xIntent> PersonX argues with PersonY's boyfriend	xIntent	
+<oReact> PersonX argues with PersonY's boyfriend	oReact	
+<oReact> PersonX argues with PersonY's boyfriend	oReact	
+<oReact> PersonX argues with PersonY's boyfriend	oReact	
+<xIntent> PersonX argues with PersonY's boyfriend	xIntent	
+<oReact> PersonX argues with PersonY's boyfriend	oReact	
+<oReact> PersonX argues with PersonY's boyfriend	oReact	
+<xIntent> PersonX argues with PersonY's boyfriend	xIntent	
+<xIntent> PersonX argues with PersonY's boyfriend	xIntent	
+<oReact> PersonX arrives ___ from work	oReact	
+<xIntent> PersonX arrives ___ from work	xIntent	
+<xIntent> PersonX arrives ___ from work	xIntent	
+<oReact> PersonX arrives ___ from work	oReact	
+<oReact> PersonX arrives at PersonX's destination	oReact	
+<oReact> PersonX arrives at PersonX's destination	oReact	
+<xIntent> PersonX arrives at PersonX's destination	xIntent	
+<xIntent> PersonX arrives at PersonX's destination	xIntent	
+<oReact> PersonX arrives at PersonX's destination	oReact	

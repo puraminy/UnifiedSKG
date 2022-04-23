@@ -1,0 +1,1130 @@
+input_text	prefix	target_text
+PersonX abandons ___ altogether	xWant	      to start something new    
+PersonX abandons ___ altogether	oEffect	         none 
+PersonX abandons ___ altogether	oWant	       none   
+PersonX abandons the ___ altogether	oWant	       none   
+PersonX abandons the ___ altogether	oEffect	         none 
+PersonX abolishes ___ altogether	oEffect	         none 
+PersonX abolishes ___ altogether	oWant	       to be free   
+PersonX abolishes ___ altogether	oReact	     none     
+PersonX abolishes ___ altogether	xAttr	  determined        
+PersonX abolishes ___ in the states	oEffect	         none 
+PersonX abolishes ___ in the states	oWant	       to be free   
+PersonX abolishes ___ in the states	xAttr	  determined        
+PersonX abolishes ___ in the states	oReact	     none     
+PersonX abolishes the ___ altogether	oEffect	         none 
+PersonX abolishes the ___ altogether	xReact	    happy      
+PersonX about to get married	xAttr	  excited        
+PersonX about to get married	xNeed	   get engaged       
+PersonX about to get married	xReact	    happy      
+PersonX about to get married	oWant	       to be happy with personx   
+PersonX absolutely loved	xEffect	        none  
+PersonX absolutely loved	xWant	      to marry her    
+PersonX absolutely loved	xNeed	   none       
+PersonX absolutely loved	oEffect	         none 
+PersonX absolutely loved	oWant	       none   
+PersonX absolutely loved	xAttr	  loving        
+PersonX absolutely loved ___	xAttr	  amiable        
+PersonX absolutely loved ___	xNeed	   none       
+PersonX absolutely loved ___	oWant	       none   
+PersonX absolutely loved ___	oEffect	         none 
+PersonX absolutely loved ___	oReact	     none     
+PersonX absolutely loved ___	xReact	    happy      
+PersonX absolutely loved it	oEffect	         none 
+PersonX absolutely loved it	xReact	    happy      
+PersonX absolutely loved it	oWant	       none   
+PersonX absolutely loved it	xNeed	   none       
+PersonX absolutely loved it	xWant	      to buy more    
+PersonX absolutely loved it	oReact	     none     
+PersonX absolutely loved it	xIntent	 none         
+PersonX absorbs every ___	oEffect	         none 
+PersonX absorbs every ___	oReact	     none     
+PersonX absorbs every ___	oWant	       none   
+PersonX absorbs every ___	xNeed	   to be in class       
+PersonX absorbs every ___	xEffect	        none  
+PersonX accepts PersonY appointment	oReact	     none     
+PersonX accepts PersonY appointment	oEffect	         none 
+PersonX accepts PersonY thanks	xIntent	 to be gracious         
+PersonX accepts PersonY thanks	xReact	    happy      
+PersonX accepts PersonY thanks	xAttr	  kind        
+PersonX accepts PersonY thanks	oReact	     happy     
+PersonX accepts PersonY thanks	xWant	      to be happy    
+PersonX accepts PersonY's proposal	xWant	      to marry    
+PersonX accepts PersonY's proposal	xEffect	        signs the paper  
+PersonX accepts PersonY's proposal	xReact	    happy      
+PersonX accepts PersonY's proposal	xIntent	 to be together         
+PersonX accepts PersonY's proposal	xNeed	   to like PersonY       
+PersonX accepts PersonY's proposal	oWant	       to marry PersonY   
+PersonX accepts PersonY's resignation	oEffect	         none 
+PersonX accepts PersonY's resignation	xReact	    sad      
+PersonX accepts ___ as PersonX's savior	oWant	       none   
+PersonX accepts ___ as PersonX's savior	xEffect	        he is saved  
+PersonX accepts ___ as PersonX's savior	oEffect	         none 
+PersonX accepts ___ as PersonX's savior	xIntent	 to be religious         
+PersonX accepts ___ as PersonX's savior	oReact	     none     
+PersonX accepts ___ as PersonX's savior	xNeed	   to pray       
+PersonX accepts ___ as PersonX's savior	xAttr	  religious        
+PersonX accepts another ___	xWant	      to make a handshake deal    
+PersonX accepts another ___	xNeed	   to be offered something       
+PersonX accepts another ___	oEffect	         none 
+PersonX accepts another ___	xAttr	  receptive        
+PersonX accepts every ___	oEffect	         none 
+PersonX accepts every ___	xEffect	        none  
+PersonX accepts every ___	xIntent	 to be agreeable         
+PersonX accepts every ___	oReact	     none     
+PersonX accepts every ___	oWant	       none   
+PersonX accepts every ___	xReact	    happy      
+PersonX accepts into college	oReact	     none     
+PersonX accepts into college	xNeed	   apply       
+PersonX accepts into college	oEffect	         none 
+PersonX accepts into college	xAttr	  smart        
+PersonX accepts into college	oWant	       none   
+PersonX accepts into college	xWant	      to go off to school    
+PersonX accepts into college	xIntent	 to going college         
+PersonX accepts into college	xReact	    very happy      
+PersonX accepts one 's ___	oEffect	         none 
+PersonX accepts one 's ___	xReact	    happy      
+PersonX accepts one 's ___	oReact	     none     
+PersonX accepts one 's ___	oWant	       none   
+PersonX accepts one 's ___	xAttr	  accepting        
+PersonX accepts the challenge	xReact	    determined      
+PersonX accepts the challenge	oEffect	         none 
+PersonX accepts the challenge	xIntent	 to prove they are the best         
+PersonX accepts the challenge	xAttr	  brave        
+PersonX accepts the challenge	oWant	       none   
+PersonX accepts the dare	oWant	       none   
+PersonX accepts the dare	xNeed	   to be challenged       
+PersonX accepts the dare	oReact	     none     
+PersonX accepts the dare	xIntent	 to prove they are not afraid         
+PersonX accepts the dare	xReact	    brave      
+PersonX accepts the fact	oWant	       none   
+PersonX accepts the fact	oReact	     none     
+PersonX accepts the fact	xIntent	 to be agreeable         
+PersonX accepts the fact	xAttr	  resigned        
+PersonX accepts the fact	oEffect	         none 
+PersonX accepts without question	oEffect	         none 
+PersonX accepts without question	xIntent	 to be generous         
+PersonX accepts without question	xAttr	  naive        
+PersonX accepts without question	oWant	       none   
+PersonX accepts without question	xNeed	   none       
+PersonX accepts without question	xWant	      to be done    
+PersonX accidentally broke ___	xIntent	 none         
+PersonX accidentally broke ___	oReact	     none     
+PersonX accidentally broke ___	xAttr	  clumsy        
+PersonX accidentally broke ___	oEffect	         none 
+PersonX accidentally broke ___	xNeed	   none       
+PersonX accidentally broke ___	oWant	       none   
+PersonX accidentally bumped	xAttr	  clumsy        
+PersonX accidentally bumped	xNeed	   none       
+PersonX accidentally bumped	oWant	       none   
+PersonX accidentally bumped	xIntent	 none         
+PersonX accidentally bumped	oEffect	         none 
+PersonX accidentally burned	oReact	     none     
+PersonX accidentally burned	xNeed	   none       
+PersonX accidentally burned	oWant	       none   
+PersonX accidentally burned	oEffect	         none 
+PersonX accidentally burned	xIntent	 none         
+PersonX accidentally burned ___	oReact	     none     
+PersonX accidentally burned ___	xAttr	  clumsy        
+PersonX accidentally burned ___	xNeed	   none       
+PersonX accidentally burned ___	oEffect	         none 
+PersonX accidentally burned ___	xIntent	 none         
+PersonX accidentally cut	xWant	      to get a bandage    
+PersonX accidentally cut	xIntent	 none         
+PersonX accidentally cut	xEffect	        bleeds  
+PersonX accidentally cut	oEffect	         none 
+PersonX accidentally cut	oReact	     none     
+PersonX accidentally cut	oWant	       none   
+PersonX accidentally cut	xNeed	   none       
+PersonX accidentally cut ___	xAttr	  clumsy        
+PersonX accidentally cut ___	xReact	    sad      
+PersonX accidentally cut ___	xNeed	   none       
+PersonX accidentally cut ___	oReact	     none     
+PersonX accidentally cut ___	xIntent	 none         
+PersonX accidentally cut ___	oEffect	         none 
+PersonX accidentally cut ___	oWant	       none   
+PersonX accidentally dropped	xIntent	 none         
+PersonX accidentally dropped	oReact	     none     
+PersonX accidentally dropped	oEffect	         none 
+PersonX accidentally dropped	xEffect	        PersonX breaks the glass  
+PersonX accidentally dropped	xAttr	  clumsy        
+PersonX accidentally dropped	oWant	       none   
+PersonX accidentally dropped	xNeed	   none       
+PersonX accidentally dropped ___	xAttr	  clumsy        
+PersonX accidentally dropped ___	xWant	      to pick it up    
+PersonX accidentally dropped ___	xNeed	   none       
+PersonX accidentally dropped ___	oEffect	         none 
+PersonX accidentally dropped ___	oReact	     none     
+PersonX accidentally dropped ___	xIntent	 none         
+PersonX accidentally dropped ___	oWant	       none   
+PersonX accidentally dropped ___ on the ground	oReact	     none     
+PersonX accidentally dropped ___ on the ground	xWant	      to pick it up    
+PersonX accidentally dropped ___ on the ground	oWant	       none   
+PersonX accidentally dropped ___ on the ground	xNeed	   none       
+PersonX accidentally dropped ___ on the ground	xIntent	 none         
+PersonX accidentally dropped ___ on the ground	xAttr	  clumsy        
+PersonX accidentally dropped ___ on the ground	oEffect	         none 
+PersonX accidentally dropped ___ on the ground	xReact	    sad      
+PersonX accidentally dropped it	oEffect	         none 
+PersonX accidentally dropped it	xReact	    embarrassed      
+PersonX accidentally dropped it	xIntent	 none         
+PersonX accidentally dropped it	oReact	     none     
+PersonX accidentally dropped it	xNeed	   none       
+PersonX accidentally dropped it	oWant	       none   
+PersonX accidentally dropped it	xWant	      to pick it up    
+PersonX accidentally dropped it	xAttr	  clumsy        
+PersonX accidentally fell	oEffect	         none 
+PersonX accidentally fell	xEffect	        PersonX breaks a hip  
+PersonX accidentally fell	oWant	       none   
+PersonX accidentally fell	xWant	      to get back up    
+PersonX accidentally fell	xNeed	   none       
+PersonX accidentally fell	xAttr	  clumsy        
+PersonX accidentally fell	xIntent	 none         
+PersonX accidentally fell	oReact	     none     
+PersonX accidentally fell	xReact	    embarrassed      
+PersonX accidentally got	xNeed	   none       
+PersonX accidentally got	xAttr	  clumsy        
+PersonX accidentally got	xEffect	        none  
+PersonX accidentally got	oEffect	         none 
+PersonX accidentally got	oWant	       none   
+PersonX accidentally got	xIntent	 none         
+PersonX accidentally got	oReact	     none     
+PersonX accidentally got ___	xNeed	   none       
+PersonX accidentally got ___	oWant	       none   
+PersonX accidentally got ___	oEffect	         none 
+PersonX accidentally got ___	xWant	      to fix the mistake    
+PersonX accidentally got ___	xIntent	 none         
+PersonX accidentally got ___	oReact	     none     
+PersonX accidentally got ___	xAttr	  clumsy        
+PersonX accidentally hit	xAttr	  clumsy        
+PersonX accidentally hit	oEffect	         none 
+PersonX accidentally hit	oWant	       none   
+PersonX accidentally hit	xNeed	   none       
+PersonX accidentally hit	xIntent	 none         
+PersonX accidentally hit ___	xNeed	   none       
+PersonX accidentally hit ___	oWant	       none   
+PersonX accidentally hit ___	oEffect	         none 
+PersonX accidentally hit ___	xIntent	 none         
+PersonX accidentally hit ___	xAttr	  clumsy        
+PersonX accidentally knocked	oWant	       none   
+PersonX accidentally knocked	xAttr	  clumsy        
+PersonX accidentally knocked	xIntent	 none         
+PersonX accidentally knocked	oEffect	         none 
+PersonX accidentally knocked	oReact	     none     
+PersonX accidentally knocked ___	xReact	    embarrassed      
+PersonX accidentally knocked ___	oEffect	         none 
+PersonX accidentally knocked ___	oWant	       none   
+PersonX accidentally knocked ___	xIntent	 none         
+PersonX accidentally knocked ___	xWant	      to pick something up    
+PersonX accidentally knocked ___	oReact	     none     
+PersonX accidentally knocked ___	xAttr	  clumsy        
+PersonX accidentally knocked ___	xNeed	   none       
+PersonX accidentally knocked over	xIntent	 none         
+PersonX accidentally knocked over	oReact	     none     
+PersonX accidentally knocked over	xReact	    embarrassed      
+PersonX accidentally knocked over	oEffect	         none 
+PersonX accidentally knocked over	xAttr	  clumsy        
+PersonX accidentally left	oWant	       none   
+PersonX accidentally left	xWant	      to go back    
+PersonX accidentally left	xNeed	   none       
+PersonX accidentally left	xIntent	 none         
+PersonX accidentally left	xAttr	  clumsy        
+PersonX accidentally left	oEffect	         none 
+PersonX accidentally left	oReact	     none     
+PersonX accidentally left ___	oReact	     none     
+PersonX accidentally left ___	xIntent	 none         
+PersonX accidentally left ___	xReact	    upset      
+PersonX accidentally left ___	oEffect	         none 
+PersonX accidentally left ___	oWant	       none   
+PersonX accidentally left ___	xWant	      to go back    
+PersonX accidentally left ___	xNeed	   none       
+PersonX accidentally put	xEffect	        none  
+PersonX accidentally put	oEffect	         none 
+PersonX accidentally put	xIntent	 none         
+PersonX accidentally put	oReact	     none     
+PersonX accidentally put	xNeed	   none       
+PersonX accidentally put	oWant	       none   
+PersonX accidentally put	xAttr	  careless        
+PersonX accidentally put	xWant	      to fix the error    
+PersonX accidentally put ___	xIntent	 none         
+PersonX accidentally put ___	oReact	     none     
+PersonX accidentally put ___	oEffect	         none 
+PersonX accidentally put ___	xNeed	   none       
+PersonX accidentally put ___	oWant	       none   
+PersonX accidentally put ___	xAttr	  clumsy        
+PersonX accidentally shot	xNeed	   none       
+PersonX accidentally shot	oWant	       none   
+PersonX accidentally shot	xAttr	  clumsy        
+PersonX accidentally shot	oReact	     none     
+PersonX accidentally shot	oEffect	         none 
+PersonX accidentally shot	xIntent	 none         
+PersonX accidentally spilled	xAttr	  clumsy        
+PersonX accidentally spilled	xReact	    embarrassed      
+PersonX accidentally spilled	xWant	      to clean up the mess    
+PersonX accidentally spilled	oEffect	         none 
+PersonX accidentally spilled	oReact	     none     
+PersonX accidentally spilled	xIntent	 none         
+PersonX accidentally spilled	oWant	       none   
+PersonX accidentally spilled	xNeed	   none       
+PersonX accidentally spilled ___	xWant	      to clean it up    
+PersonX accidentally spilled ___	oReact	     none     
+PersonX accidentally spilled ___	xIntent	 none         
+PersonX accidentally spilled ___	xReact	    embarrassed      
+PersonX accidentally spilled ___	oEffect	         none 
+PersonX accidentally spilled ___	xNeed	   none       
+PersonX accidentally spilled ___	oWant	       none   
+PersonX accidentally spilled ___	xAttr	  clumsy        
+PersonX accidentally stepped	xAttr	  clumsy        
+PersonX accidentally stepped	xNeed	   none       
+PersonX accidentally stepped	oWant	       none   
+PersonX accidentally stepped	oReact	     none     
+PersonX accidentally stepped	oEffect	         none 
+PersonX accidentally stepped	xIntent	 none         
+PersonX accidentally stepped	xEffect	        trips  
+PersonX accidentally threw ___	oReact	     none     
+PersonX accidentally threw ___	xIntent	 none         
+PersonX accidentally threw ___	xNeed	   none       
+PersonX accidentally threw ___	oWant	       none   
+PersonX accidentally threw ___	xReact	    embarrassed      
+PersonX accidentally threw ___	xAttr	  clumsy        
+PersonX accidentally threw ___	xWant	      to pick it back up    
+PersonX accidentally tripped	oEffect	         none 
+PersonX accidentally tripped	xReact	    embarrassed      
+PersonX accidentally tripped	xIntent	 none         
+PersonX accidentally tripped	oReact	     none     
+PersonX accidentally tripped	oWant	       none   
+PersonX accidentally tripped	xNeed	   none       
+PersonX accidentally tripped	xAttr	  clumsy        
+PersonX accidentally tripped	xWant	      to get back up    
+PersonX accidently left	oReact	     none     
+PersonX accidently left	xIntent	 none         
+PersonX accidently left	oEffect	         none 
+PersonX accidently left	xAttr	  clumsy        
+PersonX accidently left	oWant	       none   
+PersonX accidently left	xNeed	   none       
+PersonX accidently left	xEffect	        none  
+PersonX accompanies PersonY far	xReact	    happy      
+PersonX accompanies PersonY far	xNeed	   to walk with PersonY       
+PersonX accompanies PersonY far	xAttr	  helpful        
+PersonX accompanies by PersonX's wife	xReact	    happy      
+PersonX accompanies by PersonX's wife	oReact	     happy     
+PersonX accompanies by PersonX's wife	xIntent	 to go somewhere         
+PersonX accompanies by PersonX's wife	xAttr	  caring        
+PersonX accompanies by PersonY's wife	xReact	    happy      
+PersonX accompanies by PersonY's wife	oReact	     happy     
+PersonX accompanies by PersonY's wife	xNeed	   to go to person Y's house       
+PersonX accompanies by PersonY's wife	xAttr	  kind        
+PersonX accomplishes PersonX's goal	xAttr	  determined        
+PersonX accomplishes PersonX's goal	oEffect	         none 
+PersonX accomplishes PersonX's goal	xEffect	        PersonX smiles  
+PersonX accomplishes PersonX's goal	xReact	    happy      
+PersonX accomplishes PersonX's goal	oReact	     none     
+PersonX accomplishes PersonX's goal	oWant	       none   
+PersonX accomplishes PersonX's goal	xWant	      to celebrate    
+PersonX accomplishes PersonX's goal	xNeed	   to work       
+PersonX accomplishes PersonX's goals	xAttr	  determined        
+PersonX accomplishes PersonX's goals	xNeed	   to work hard towards their goals       
+PersonX accomplishes PersonX's goals	xWant	      to celebrate    
+PersonX accomplishes PersonX's goals	oEffect	         none 
+PersonX accomplishes PersonX's goals	xReact	    happy      
+PersonX accomplishes PersonX's goals	oReact	     none     
+PersonX accomplishes PersonX's goals	xIntent	 to be successful         
+PersonX accomplishes PersonX's goals	oWant	       none   
+PersonX accomplishes PersonX's mission	xReact	    proud      
+PersonX accomplishes PersonX's mission	xAttr	  determined        
+PersonX accomplishes PersonX's object	xWant	      celebrate    
+PersonX accomplishes PersonX's object	xIntent	 to be done         
+PersonX accomplishes PersonX's object	xReact	    happy      
+PersonX accomplishes PersonX's objectives	xIntent	 to be content         
+PersonX accomplishes PersonX's objectives	xNeed	   work hard       
+PersonX accomplishes PersonX's purpose	xNeed	   to work hard       
+PersonX accomplishes PersonX's purpose	xWant	      to celebrate    
+PersonX accomplishes PersonX's purpose	xIntent	 to be successful         
+PersonX accomplishes PersonX's purpose	xReact	    accomplished      
+PersonX accomplishes PersonX's purposes	xWant	      to celebrate    
+PersonX accomplishes PersonX's purposes	xReact	    accomplished      
+PersonX accomplishes PersonX's purposes	xAttr	  successful        
+PersonX accomplishes PersonX's purposes	xEffect	        PersonX is awarded  
+PersonX accomplishes PersonX's purposes	xIntent	 to be satisfied         
+PersonX accomplishes PersonX's task	xReact	    accomplished      
+PersonX accomplishes PersonX's task	xNeed	   to work hard       
+PersonX accomplishes PersonX's work	xIntent	 to be successful         
+PersonX accomplishes PersonX's work	xAttr	  hardworking        
+PersonX accomplishes PersonY's objectives	oWant	       to chide PersonX   
+PersonX accomplishes PersonY's work	oWant	       to thank PersonX   
+PersonX accomplishes PersonY's work	xAttr	  helpful        
+PersonX accomplishes the ___ at hand	xNeed	   to work hard       
+PersonX accomplishes the ___ at hand	xAttr	  hardworking        
+PersonX accomplishes the ___ in view	xWant	      set new goals    
+PersonX accomplishes the ___ in view	xNeed	   to work hard       
+PersonX accomplishes the ___ in view	xReact	    accomplished      
+PersonX accuses PersonY of cheating	oReact	     angry     
+PersonX accuses PersonY of cheating	xReact	    angry      
+PersonX accuses PersonY of cheating	oWant	       to apologize   
+PersonX accuses PersonY of cheating	xAttr	  angry        
+PersonX accuses ___ of cheating	oWant	       to be forgiven   
+PersonX accuses ___ of cheating	xNeed	   to be in a relationship       
+PersonX accuses ___ of cheating	xReact	    angry      
+PersonX accuses ___ of cheating	oReact	     angry     
+PersonX accuses ___ of cheating	xEffect	        Gets yelled at  
+PersonX accuses ___ of cheating	xAttr	  angry        
+PersonX aces PersonX's exam	xReact	    proud      
+PersonX aces PersonX's exam	xWant	      to celebrate    
+PersonX aces PersonX's exam	xNeed	   to study       
+PersonX aces PersonX's exam	xAttr	  proud        
+PersonX aces PersonX's interview	xReact	    proud      
+PersonX aces the exam	xEffect	        gets a great grade  
+PersonX aces the exam	xNeed	   to study       
+PersonX aces the test	xEffect	        gets a good job  
+PersonX aces the test	xReact	    proud      
+PersonX aces the test	xNeed	   to study hard       
+PersonX achieves PersonX's aim	xNeed	   to work hard       
+PersonX achieves PersonX's aim	xWant	      to make another goal    
+PersonX achieves PersonX's aim	xIntent	 to be successful         
+PersonX achieves PersonX's aims	xNeed	   to work hard to hit that goal       
+PersonX achieves PersonX's aims	xWant	      to make new goals    
+PersonX achieves PersonX's aims	xReact	    very happy      
+PersonX achieves PersonX's ends	xNeed	   to work hard       
+PersonX achieves PersonX's ends	xAttr	  determined        
+PersonX achieves PersonX's goal	xReact	    happy      
+PersonX achieves PersonX's goals	xNeed	   to work hard       
+PersonX achieves PersonX's goals	xWant	      to set other goals    
+PersonX achieves PersonX's goals	xAttr	  determined        
+PersonX achieves PersonX's goals	xIntent	 to be successful         
+PersonX achieves PersonX's goals	xReact	    happy      
+PersonX achieves PersonX's objectives	xAttr	  successful        
+PersonX achieves PersonX's objectives	xNeed	   to study hard       
+PersonX achieves PersonX's objectives	xIntent	 to be acomplished         
+PersonX achieves PersonX's potential	xAttr	  determined        
+PersonX achieves PersonX's potential	xWant	      to celebrate    
+PersonX achieves PersonX's potential	xNeed	   to work really hard       
+PersonX achieves PersonX's potential	xReact	    proud      
+PersonX achieves PersonX's potential	xIntent	 to be the best he can be         
+PersonX achieves PersonY end	xReact	    happy      
+PersonX achieves PersonY end	oWant	       to be worthy   
+PersonX achieves PersonY end	xIntent	 to be alone         
+PersonX achieves PersonY goal	oWant	       to be supported   
+PersonX achieves PersonY goal	xReact	    very happy      
+PersonX achieves PersonY understanding	xEffect	        PersonX imparts knowledge  
+PersonX achieves ___ in life	xNeed	   work hard       
+PersonX achieves ___ in life	xWant	      to  celebrate the victory    
+PersonX achieves ___ in life	xAttr	  successful        
+PersonX achieves ___ in life	xReact	    happy      
+PersonX achieves one 's ___	xIntent	 to be fulfilled         
+PersonX achieves one 's ___	xNeed	   to work hard       
+PersonX achieves one 's ___	xReact	    happy      
+PersonX achieves one 's ___	xWant	      to celebrate    
+PersonX achieves one 's ___	xAttr	  determined        
+PersonX achieves the organization 's ___	xAttr	  dedicated        
+PersonX achieves the organization 's ___	xIntent	 to be a success         
+PersonX achieves the organization 's ___	xWant	      to celebrate    
+PersonX achieves the organization 's ___	xNeed	   to work hard       
+PersonX achieves the organization 's ___	xReact	    proud      
+PersonX acknowledges gratefully the ___	xEffect	        smiles  
+PersonX acknowledges with gratitude the ___	xAttr	  thankful        
+PersonX acknowledges with gratitude the ___	xIntent	 to be kind         
+PersonX acknowledges with gratitude the ___	xReact	    happy      
+PersonX acknowledges with thanks the ___	xWant	      to be proud    
+PersonX acknowledges with thanks the ___	xReact	    happy      
+PersonX acknowledges with thanks the ___	xAttr	  grateful        
+PersonX acquires PersonY interest	xAttr	  curious        
+PersonX acquires PersonY interest	xReact	    excited      
+PersonX acquires PersonY knowledge	xAttr	  curious        
+PersonX acquires PersonY knowledge	xIntent	 to be smarter         
+PersonX acquires PersonY knowledge	xNeed	   to talk to PersonY       
+PersonX acquires PersonY knowledge	oWant	       to teach PersonX   
+PersonX activates a shadow over everyone	oReact	     scared     
+PersonX activates a shadow over everyone	xAttr	  controlling        
+PersonX activates a shadow over everyone	oWant	       To be free   
+PersonX acts PersonX's age	xIntent	 to be mature         
+PersonX acts PersonX's age	xReact	    mature      
+PersonX acts PersonX's age	xAttr	  mature        
+PersonX acts as PersonY agent	xAttr	  helpful        
+PersonX acts as PersonY agent	xWant	      to earn money    
+PersonX acts as PersonY agent	xIntent	 to be act         
+PersonX acts as PersonY agent	oReact	     happy     
+PersonX acts as PersonY intermediary	xNeed	   to know PersonY       
+PersonX acts funny	xWant	      to laugh    
+PersonX acts funny	xReact	    silly      
+PersonX acts funny	xIntent	 to be funny         
+PersonX acts in PersonY capacity	xNeed	   to understand PersonY       
+PersonX acts in PersonY capacity	oWant	       to find PersonX   
+PersonX acts like PersonY	xIntent	 to be like person         
+PersonX acts like a PersonY	xAttr	  imitative        
+PersonX acts like a man	xAttr	  masculine        
+PersonX acts like men	xWant	      to be a woman    
+PersonX acts like men	xAttr	  masculine        
+PersonX acts like men	xReact	    like a man      
+PersonX acts on PersonX's behalf	xWant	      to be thanked    
+PersonX acts on PersonX's behalf	oReact	     grateful     
+PersonX acts on PersonX's behalf	xReact	    proud      
+PersonX acts on PersonY's behalf	xAttr	  caring        
+PersonX acts on PersonY's behalf	xIntent	 to help a friend         
+PersonX acts on PersonY's behalf	oReact	     grateful     
+PersonX acts on PersonY's behalf	xReact	    good      
+PersonX acts quickly	xAttr	  decisive        
+PersonX acts quickly	xIntent	 to be first         
+PersonX acts quickly	xReact	    excited      
+PersonX acts strange	xReact	    odd      
+PersonX acts strange	xAttr	  odd        
+PersonX actually got	xWant	      to take care of it    
+PersonX actually liked ___	xWant	      to try it again    
+PersonX adapts the ___ to the needs	xAttr	  flexible        
+PersonX adapts to PersonX's environment	xAttr	  flexible        
+PersonX adapts to PersonX's environment	xReact	    comfortable      
+PersonX adapts to PersonX's environment	xIntent	 to be comfortable         
+PersonX adapts to PersonY's environment	xAttr	  accomodating        
+PersonX addresses the ___ directly	xAttr	  direct        
+PersonX addresses the ___ directly	xWant	      to be brave    
+PersonX addresses the ___ directly	xIntent	 to be heard         
+PersonX addresses women 's ___	xNeed	   to know things       
+PersonX adds ___ to PersonX's collection	xReact	    happy      
+PersonX adds ___ to PersonX's collection	xIntent	 to add to a collection         
+PersonX adds ___ to injury	xNeed	   to be mean       
+PersonX adds ___ to injury	xAttr	  mean        
+PersonX adds ___ to the fire	xEffect	        is thrown out  
+PersonX adds ___ to the fire	xReact	    happy      
+PersonX adds ___ to the fire	xNeed	   to go to the fire       
+PersonX adds ___ to the flame	xAttr	  mean        
+PersonX adds ___ to the flames	xReact	    angry      
+PersonX adds ___ to the list	xIntent	 to be thorough         
+PersonX adds ___ to the list	xAttr	  organized        
+PersonX adds ___ to the list	xWant	      to check it    
+PersonX adds ___ to the list	xNeed	   have a list       
+PersonX adds another ___	xNeed	   to buy something       
+PersonX adds another ___	xReact	    happy      
+PersonX adds butter	xWant	      to eat the food    
+PersonX adds butter	xNeed	   to buy ingredients       
+PersonX adds fuel to the fire	xEffect	        he gets burned  
+PersonX adds fuel to the fire	oReact	     angry     
+PersonX adds insult to injury	xAttr	  mean        
+PersonX adds oil	xWant	      to cook something    
+PersonX adds oil	xNeed	   to  buy oil       
+PersonX adds salt	xReact	    satisfied      
+PersonX adds salt	xWant	      to eat    
+PersonX adds to PersonX's collection	xWant	      to view the collection    
+PersonX adds to PersonX's knowledge	xNeed	   to read texts to learn something       
+PersonX adds together the ___	xIntent	 to be prepared         
+PersonX adjusts PersonX's ___ accordingly	xEffect	        PersonX adjusts PersonX's retirement plan accordingly  
+PersonX adjusts PersonY's glasses	xIntent	 to be comfortable         
+PersonX adjusts PersonY's glasses	xAttr	  helpful        
+PersonX admires PersonY's work	xReact	    happy      
+PersonX admires PersonY's work	xNeed	   to see PersonY's work       
+PersonX admires PersonY's work	xWant	      to know more about PersonY    
+PersonX admits PersonY was wrong	xIntent	 to be truthful         
+PersonX adopts PersonY approach	xIntent	 to be like the other person         
+PersonX adopts PersonY policy	xNeed	   to see PersonY       
+PersonX adopts PersonY policy	xWant	      to follow the policy to a T!    
+PersonX adopts PersonY policy	xIntent	 to be more successful         
+PersonX adopts a baby	xIntent	 to become a parent         
+PersonX adopts a baby	xAttr	  caring        
+PersonX adopts a cat	xWant	      to take the cat home    
+PersonX adopts a cat	xIntent	 to have a cat         
+PersonX adopts a cat	xNeed	   to go to the pet shelter       
+PersonX adopts a cat	xAttr	  caring        
+PersonX adopts a cat	xReact	    happy      
+PersonX adopts a child	xReact	    happy      
+PersonX adopts a child	xAttr	  caring        
+PersonX adopts a child	xIntent	 to be a parent         
+PersonX adopts a dog	xWant	      to take the dog home    
+PersonX adopts a dog	xNeed	   to go to the shelter       
+PersonX adopts a dog	xAttr	  caring        
+PersonX adopts a kitten	xAttr	  loving        
+PersonX adopts a kitten	xReact	    happy      
+PersonX adopts a kitten	xNeed	   to go to the vey       
+PersonX adopts a little girl	xIntent	 to be a parent         
+PersonX adopts a little girl	xReact	    happy      
+PersonX adopts a new cat	xNeed	   to go to the pound       
+PersonX adopts a new cat	xWant	      to bring the cat home    
+PersonX adopts a new cat	xAttr	  caring        
+PersonX adopts a new cat	xReact	    happy      
+PersonX adopts a pet	xNeed	   to go to the shelter       
+PersonX adopts a pet	xReact	    happy      
+PersonX adopts a pet	xAttr	  caring        
+PersonX adopts a puppy	xWant	      feed the puppy    
+PersonX adopts a puppy	xReact	    happy      
+PersonX adopts a puppy	xAttr	  loving        
+PersonX adopts another ___	xIntent	 to be a happy         
+PersonX adopts one	xAttr	  loving        
+PersonX adopts one	xWant	      to take care    
+PersonX adopts one	xReact	    happy      
+PersonX adopts the cat	xWant	      to scritch the cat    
+PersonX adopts the cat	xAttr	  caring        
+PersonX adopts the cat	xReact	    happy      
+PersonX adopts the dog	xAttr	  caring        
+PersonX adopts the dog	xWant	      take the dog home    
+PersonX adopts the dog	xNeed	   go to the animal shelter       
+PersonX adopts the kitten	xAttr	  caring        
+PersonX adopts the kitten	xReact	    happy      
+PersonX adopts the kitten	xWant	      to take the kitten home    
+PersonX adopts the puppy	xAttr	  loving        
+PersonX adopts the puppy	xWant	      to bring the puppy home    
+PersonX adopts the puppy	xNeed	   to go to a shelter       
+PersonX adopts the puppy	xReact	    happy      
+PersonX advances PersonX's interests	xReact	    proud      
+PersonX advances toward PersonY	xAttr	  friendly        
+PersonX advances toward PersonY	xEffect	        gets yelled at  
+PersonX advances toward PersonY	xIntent	 to be close         
+PersonX advances towards PersonY	oReact	     happy     
+PersonX advances towards PersonY	xReact	    happy      
+PersonX advances upon PersonY	oWant	       to get away   
+PersonX advances upon PersonY	xAttr	  aggressive        
+PersonX advises PersonY to go	xReact	    happy      
+PersonX advises PersonY to take	xAttr	  helpful        
+PersonX advises PersonY to take	xReact	    helpful      
+PersonX advises PersonY to take	xIntent	 to be helpful         
+PersonX advises the ___ on all matters	oWant	       to lesson to PersonX   
+PersonX advises the ___ on all matters	xIntent	 to be influential         
+PersonX advises the ___ on all matters	xAttr	  knowledgeable        
+PersonX advises the ___ on matters	xAttr	  knowledgeable        
+PersonX advises the ___ on matters	xIntent	 to be helpful         
+PersonX advises the ___ on matters	xNeed	   to know what the people want       
+PersonX advises the ___ on matters	oWant	       to listen   
+PersonX affects PersonY's ability	xNeed	   to approach PersonY       
+PersonX affects PersonY's ability	xAttr	  influential        
+PersonX affects PersonY's health	xWant	      to make things better    
+PersonX affects PersonY's life	oReact	     happy     
+PersonX affects PersonY's life	oWant	       to be successful   
+PersonX affects PersonY's lives	xAttr	  influential        
+PersonX affects ___ adversely	xWant	      to make things good again    
+PersonX affects a person 's ___	xIntent	 to be influential         
+PersonX affects a person 's ___	xAttr	  influential        
+PersonX affects one 's ___	xAttr	  influential        
+PersonX affects people 's ___	xAttr	  influential        
+PersonX affords PersonY opportunity	xReact	    happy      
+PersonX affords PersonY opportunity	xIntent	 to be affords         
+PersonX affords PersonY opportunity	oReact	     grateful     
+PersonX affords PersonY pleasure	oWant	       to be happy   
+PersonX affords PersonY the opportunity	xIntent	 to be helpful         
+PersonX affords PersonY the opportunity	oReact	     grateful     
+PersonX affords a car	xNeed	   to save money       
+PersonX affords a new one	xNeed	   save money       
+PersonX affords a new one	xReact	    happy      
+PersonX affords anything	xAttr	  rich        
+PersonX affords anything	xWant	      to buy something expensive    
+PersonX affords one	xReact	    happy      
+PersonX affords one	xNeed	   to have money for it       
+PersonX affords the trip	xWant	      go on the trip    
+PersonX affords the trip	xReact	    happy      
+PersonX affords to buy one	xAttr	  rich        
+PersonX affords to buy one	xWant	      to use it    
+PersonX affords to fix it	xReact	    happy      
+PersonX affords to fix it	xIntent	 to use it         
+PersonX agrees and went	xAttr	  agreeable        
+PersonX agrees to a date	xWant	      to go on the date    
+PersonX agrees to a date	xReact	    excited      
+PersonX agrees to go with PersonY	xNeed	   to talk to PersonY       
+PersonX agrees to go with PersonY	xWant	      to dress up to go with PersonY    
+PersonX agrees to go with PersonY	xReact	    happy      
+PersonX agrees to go with PersonY	oReact	     happy     
+PersonX agrees to go with PersonY	xAttr	  friendly        
+PersonX agrees to help PersonY	oWant	       to thank PersonX   
+PersonX agrees to help PersonY	oReact	     grateful     
+PersonX agrees to help PersonY	xReact	    helpful      
+PersonX agrees to help PersonY	xNeed	   to talk to PersonY       
+PersonX agrees to help PersonY	xAttr	  helpful        
+PersonX agrees to take PersonY	xReact	    happy      
+PersonX agrees to the date	xReact	    excited      
+PersonX agrees to try it	xAttr	  curious        
+PersonX agrees to try it	xIntent	 to have something new         
+PersonX agrees upon by the parties	xIntent	 to be agreeable         
+PersonX aims PersonX's gun	xEffect	        shoots gun  
+PersonX allays PersonX's fears	xReact	    relieved      
+PersonX allays PersonX's fears	xEffect	        relaxes  
+PersonX allays PersonY's fears	xAttr	  helpful        
+PersonX allays PersonY's fears	oWant	       to be safe   
+PersonX allergic to cats	xReact	    scared      
+PersonX allergic to peanuts	xReact	    sick      
+PersonX allocates ___ efficiently	xIntent	 to be efficient         
+PersonX allows PersonY access	xNeed	   to receive PersonY       
+PersonX allows PersonY access	xAttr	  helpful        
+PersonX allows PersonY access	oReact	     grateful     
+PersonX allows PersonY access	xIntent	 to be helpful         
+PersonX allows PersonY access	xReact	    helpful      
+PersonX allows PersonY time	xAttr	  generous        
+PersonX allows PersonY time	xIntent	 to be kind         
+PersonX allows PersonY to keep the dog	xIntent	 to be kind         
+PersonX allows PersonY to keep the dog	oReact	     happy     
+PersonX allows PersonY to keep the dog	xReact	    happy      
+PersonX allows PersonY to keep the dog	xAttr	  kind        
+PersonX allows ___ to enter	xIntent	 to be respectful         
+PersonX almost hit	xAttr	  clumsy        
+PersonX almost hit PersonY	xReact	    angry      
+PersonX almost hit PersonY	oReact	     hurt     
+PersonX almost hit PersonY	xAttr	  clumsy        
+PersonX almost hit ___	xReact	    scared      
+PersonX almost lost	xReact	    sad      
+PersonX almost ran	xWant	      to get away    
+PersonX almost ran	xAttr	  scared        
+PersonX also asked	xAttr	  curious        
+PersonX also asked	xWant	      to ask more questions    
+PersonX also asked PersonY	xNeed	   to talk to PersonY       
+PersonX also asked PersonY	xAttr	  curious        
+PersonX also asked PersonY	xReact	    happy      
+PersonX also asked ___	xNeed	   to determine a question       
+PersonX also asked ___	xAttr	  curious        
+PersonX also asked ___	xIntent	 to know something         
+PersonX also ate	xReact	    full      
+PersonX also ate ___	xReact	    full      
+PersonX also found	xAttr	  curious        
+PersonX also found ___	xAttr	  curious        
+PersonX also found ___	xNeed	   to  go to the store       
+PersonX also gave	xNeed	   have something to give       
+PersonX also gave	xAttr	  generous        
+PersonX also gave	xIntent	 to be helpful         
+PersonX also gave	xWant	      to give everyone    
+PersonX also gave	xReact	    generous      
+PersonX also gave PersonY	xWant	      to give    
+PersonX also gave PersonY	xAttr	  generous        
+PersonX also gave PersonY	xIntent	 to be giving         
+PersonX also gave PersonY ___	xReact	    happy      
+PersonX also gave PersonY ___	xAttr	  generous        
+PersonX also gave ___	xIntent	 to be powerful         
+PersonX also gave ___	oWant	       to thank them   
+PersonX also gave ___	xReact	    happy      
+PersonX also got ___	xReact	    happy      
+PersonX also grabbed	xWant	      to take it with them    
+PersonX also helped	xAttr	  helpful        
+PersonX also kept	xWant	      to raise it    
+PersonX also kept	xAttr	  careful        
+PersonX also knew	xAttr	  aware        
+PersonX also made	xWant	      to eat food    
+PersonX also made ___	xReact	    happy      
+PersonX also picked	xWant	      to obtain something    
+PersonX also played	xWant	      to win the game    
+PersonX also played	xAttr	  talented        
+PersonX also played ___	xReact	    happy      
+PersonX also practiced	xAttr	  dedicated        
+PersonX also practiced	xReact	    accomplished      
+PersonX also put ___	xAttr	  careful        
+PersonX also read	xIntent	 to be informed         
+PersonX also set	xAttr	  determined        
+PersonX also told PersonY	oWant	       to listen to PersonX   
+PersonX also told PersonY	xNeed	   Talk to PersonY       
+PersonX also told ___	oWant	       to listen   
+PersonX also told ___	xWant	      to tell everybody    
+PersonX also took PersonY	xReact	    happy      
+PersonX also tried	xWant	      to try again    
+PersonX also turned	xAttr	  apprehensive        
+PersonX also watched	xAttr	  observant        
+PersonX also watched	xWant	      to learn more    
+PersonX also watched ___	xIntent	 to be entertained         
+PersonX alters one 's ___	xNeed	   to make a plan to change       
+PersonX always admired ___	xWant	      to become like them    
+PersonX always beats	xWant	      to win    
+PersonX always beats	xAttr	  competitive        
+PersonX always beats ___	xReact	    proud      
+PersonX always beats ___	xAttr	  competitive        
+PersonX always beats ___	xWant	      to win the prize    
+PersonX always bought ___	xReact	    satisfied      
+PersonX always bragged	xWant	      to be acknowledged    
+PersonX always brought ___	xIntent	 to be prepared         
+PersonX always buy	xNeed	   to go to the store       
+PersonX always buy ___	xReact	    satisfied      
+PersonX always buy ___	xIntent	 to be a selective person         
+PersonX always carried ___	xIntent	 to be safe         
+PersonX always enjoyed ___	xReact	    happy      
+PersonX always failed	xWant	      to learn from their mistakes    
+PersonX always felt ___	xReact	    happy      
+PersonX always followed ___	xWant	      try to be a good person    
+PersonX always followed ___	xIntent	 to be a good role model         
+PersonX always forgot	xAttr	  forgetful        
+PersonX always fought	xReact	    angry      
+PersonX always fought	xWant	      to win the match    
+PersonX always found ___	xWant	      to find more    
+PersonX always gave	xIntent	 to be helpful         
+PersonX always gave	oReact	     grateful     
+PersonX always gave	xAttr	  generous        
+PersonX always gave ___	xWant	      to give more than they take    
+PersonX always gave ___	xIntent	 be generous         
+PersonX always gave ___	oReact	     grateful     
+PersonX always gets	xReact	    happy      
+PersonX always kept ___	xIntent	 to be organized         
+PersonX always liked ___	xReact	    happy      
+PersonX always liked ___	xIntent	 to be oneself         
+PersonX always listened	xAttr	  attentive        
+PersonX always looked	xAttr	  observant        
+PersonX always looked	xWant	      to be safe    
+PersonX always loved ___	xReact	    happy      
+PersonX always played	xReact	    happy      
+PersonX always played	xWant	      to play some more    
+PersonX always played ___	xNeed	   To know how to play       
+PersonX always played ___	xReact	    happy      
+PersonX always put ___	xIntent	 to be preferred         
+PersonX always refused	xAttr	  stubborn        
+PersonX always stayed	xIntent	 to be there         
+PersonX always stayed	xReact	    happy      
+PersonX always struggled	xReact	    sad      
+PersonX always teased	xWant	      to be respected    
+PersonX always thought	xReact	    happy      
+PersonX always told PersonY	xIntent	 to be helpful         
+PersonX always told PersonY	xNeed	   to approach PersonY       
+PersonX always told ___	oWant	       to listen some more   
+PersonX always took	xReact	    satisfied      
+PersonX always took	xWant	      to be elsewhere    
+PersonX always tried	xIntent	 to be great         
+PersonX always try	xAttr	  determined        
+PersonX always try	xNeed	   to be persistent       
+PersonX always used ___	xReact	    satisfied      
+PersonX always used ___	xIntent	 to be consistent         
+PersonX always walked	xWant	      to exercise more    
+PersonX always walked	xIntent	 to be active         
+PersonX always walked ___	xReact	    happy      
+PersonX always wanted a dog	xWant	      to adopt a dog    
+PersonX always wanted a kitten	xReact	    happy      
+PersonX always wanted a kitten	xWant	      to adopt a kitten    
+PersonX always wanted a kitten	xEffect	        finds a kitten  
+PersonX always wanted a puppy	xWant	      to go get a puppy    
+PersonX always wanted a puppy	xReact	    happy      
+PersonX always watched	xWant	      to be attentive    
+PersonX always watched ___	xIntent	 to be informed         
+PersonX always wear	xWant	      to be consistent    
+PersonX always wear ___	xIntent	 to be safe         
+PersonX always wear ___	xAttr	  dependable        
+PersonX always wears ___	xIntent	 to be safe         
+PersonX always wears ___	xNeed	   to buy clothes       
+PersonX always went	xNeed	   to have to go       
+PersonX always wondered	xAttr	  curious        
+PersonX always wondered	xIntent	 to know         
+PersonX always wondered	xReact	    curious      
+PersonX amends the ___ by adding	xWant	      to make positive changes    
+PersonX analyzes ___ in terms	xAttr	  analytical        
+PersonX analyzes the ___ in terms	xAttr	  analytical        
+PersonX announces PersonY's arrival	oReact	     excited     
+PersonX announces the winner	xAttr	  proud        
+PersonX announces the winner	xIntent	 to recognize the winner         
+PersonX announces the winners	oWant	       to celebrate   
+PersonX announces the winners	xIntent	 to recognize the best performers         
+PersonX announces to everyone	xReact	    proud      
+PersonX answers PersonY questions	xIntent	 to be admired         
+PersonX answers PersonY questions	xAttr	  helpful        
+PersonX answers PersonY's ___ well	xIntent	 to be helpful         
+PersonX answers PersonY's ___ well	xNeed	   to listen to PersonY       
+PersonX answers PersonY's ___ well	oWant	       to thank PersonX   
+PersonX answers PersonY's ___ well	xAttr	  helpful        
+PersonX answers PersonY's phone	xAttr	  helpful        
+PersonX answers PersonY's phone	xReact	    helpful      
+PersonX answers PersonY's phone	xIntent	 to be nosy         
+PersonX answers PersonY's questions	xIntent	 to be helpful         
+PersonX answers PersonY's questions	xWant	      to be seen as helpful    
+PersonX answers ___ correctly	xIntent	 to be educated         
+PersonX answers ___ correctly	xAttr	  smart        
+PersonX answers all the questions	xEffect	        gets a grade  
+PersonX answers all the questions	xAttr	  knowledgeable        
+PersonX answers every ___	xReact	    happy      
+PersonX answers every ___	xIntent	 to be honest         
+PersonX answers questions	xIntent	 to be smart         
+PersonX answers the ___ correctly	xAttr	  smart        
+PersonX answers the call	xWant	      to end the call    
+PersonX answers the call	xNeed	   to have their phone nearby       
+PersonX answers the call	xReact	    happy      
+PersonX answers the phone	xReact	    happy      
+PersonX answers the questions	xAttr	  knowledgeable        
+PersonX answers the questions	xIntent	 to be helpful         
+PersonX anticipates every ___	xWant	      to be prepared    
+PersonX anxiously awaited	xAttr	  nervous        
+PersonX anxiously awaited	xReact	    nervous      
+PersonX apologizes profusely	xIntent	 to be forgiven         
+PersonX apologizes profusely	oWant	       to forgive PersonX   
+PersonX apologizes profusely	xNeed	   to be brave       
+PersonX apologizes to PersonX's boss	xAttr	  sorry        
+PersonX apologizes to PersonX's boss	oWant	       to fire PersonX   
+PersonX appears among PersonY	oWant	       to se PersonX   
+PersonX appears on PersonY's face	xWant	      to make fun of PersonY    
+PersonX applies PersonX's ___ unto PersonY	xNeed	   to talk to PersonY       
+PersonX applies ___ to problems	xIntent	 to be rational         
+PersonX applies ___ to problems	xWant	      find a solution    
+PersonX applies ___ to the study	xReact	    accomplished      
+PersonX applies for a credit card	xAttr	  responsible        
+PersonX applies for a credit card	xReact	    happy      
+PersonX applies for a credit card	xIntent	 to buy things         
+PersonX applies for a job	xIntent	 to get a better career         
+PersonX applies for a job	xAttr	  hopeful        
+PersonX applies for a new job	xAttr	  hopeful        
+PersonX applies for a new job	xWant	      to see if they get hired    
+PersonX applies for a new job	xNeed	   to want a new job       
+PersonX applies for college	xWant	      to graduate college and get a job    
+PersonX applies for college	xReact	    excited      
+PersonX applies for food stamps	xWant	      get food    
+PersonX applies for food stamps	xAttr	  hungry        
+PersonX applies for many jobs	xIntent	 to be successful         
+PersonX applies for many jobs	xReact	    hopeful      
+PersonX applies for many jobs	xEffect	        gets hired  
+PersonX applies for the job	xReact	    excited      
+PersonX applies for the job	xAttr	  hopeful        
+PersonX applies for the job	xNeed	   to find a job       
+PersonX applies lotion	xIntent	 to be soothed         
+PersonX applies oneself	xReact	    accomplished      
+PersonX applies oneself	xIntent	 to be productive         
+PersonX applies oneself	xWant	      to be successful    
+PersonX applies the ___ to cases	xReact	    accomplished      
+PersonX applies the ___ to cases	xAttr	  skilled        
+PersonX applies the ___ to problems	xNeed	   to learn the problem       
+PersonX applies the ___ to the study	xAttr	  smart        
+PersonX applies the ___ to the study	xReact	    accomplished      
+PersonX applies the dye	xNeed	   get brush       
+PersonX applies to college	xReact	    excited      
+PersonX applies to college	xEffect	        PersonX gets accepted  
+PersonX applies to colleges	xAttr	  hopeful        
+PersonX applies to colleges	xReact	    excited      
+PersonX applies to many jobs	xIntent	 to be employed         
+PersonX applies to many jobs	xReact	    hopeful      
+PersonX appreciates PersonY's effort	xWant	      to thank PersonY    
+PersonX appreciates the effort	xNeed	   to be present       
+PersonX appreciates the gesture	xWant	      to show appreciation    
+PersonX appreciates the gesture	xReact	    happy      
+PersonX approaches PersonX's crush	xReact	    nervous      
+PersonX approaches the ___ in a way	xAttr	  curious        
+PersonX argues PersonX's case	oWant	       to listen   
+PersonX arms to the teeth	xIntent	 to be feared         
+PersonX army volunteers	oWant	       to thank personX   
+PersonX arouses PersonY interest	oReact	     excited     
+PersonX arouses PersonY's interest	xIntent	 to be intriguing         
+PersonX arouses PersonY's interest	oWant	       to talk to PersonX   
+PersonX arranges PersonY in order	xAttr	  organized        
+PersonX arrives every ___	xReact	    happy      
+PersonX arrives in time	xAttr	  punctual        
+PersonX arrives quickly	xIntent	 to be on time         
+PersonX arrives safely	xAttr	  careful        
+PersonX arrives the next day	xWant	      go back home    
+PersonX arrives the next day	xReact	    happy      
+PersonX arrives to class	xNeed	   to get ready       
+PersonX arrives to pick PersonY up	oReact	     happy     
+PersonX arrives to pick PersonY up	xReact	    happy      
+PersonX arrives to school	xNeed	   get dressed       
+PersonX arrives to school	xWant	      go to locker    
+PersonX asks PersonX's brother	xAttr	  curious        
+PersonX asks PersonX's brother	oWant	       to help personx   
+PersonX asks PersonX's crush	xReact	    excited      
+PersonX asks PersonX's crush	xAttr	  curious        
+PersonX asks PersonX's daughter	xAttr	  curious        
+PersonX asks PersonX's friend PersonY	xAttr	  curious        
+PersonX asks PersonX's friend PersonY	xIntent	 to be informed         
+PersonX asks PersonX's friend for help	xIntent	 to be supported         
+PersonX asks PersonX's friend for help	oWant	       to help him   
+PersonX asks PersonX's friend for help	xWant	      to get the job done    
+PersonX asks PersonX's friends for advice	oWant	       to try to help   
+PersonX asks PersonX's friends for help	xEffect	        gets help  
+PersonX asks PersonX's friends for help	oWant	       to refuse to help   
+PersonX asks PersonX's girlfriend	xAttr	  curious        
+PersonX asks PersonX's husband	oReact	     happy     
+PersonX asks PersonX's husband	xAttr	  curious        
+PersonX asks PersonX's kids	xAttr	  curious        
+PersonX asks PersonX's manager	xAttr	  curious        
+PersonX asks PersonX's mom for help	oWant	       to help their son   
+PersonX asks PersonX's neighbor	xAttr	  curious        
+PersonX asks PersonX's neighbors	xWant	      to hear a response    
+PersonX asks PersonX's neighbors	xReact	    curious      
+PersonX asks PersonX's neighbors	xAttr	  curious        
+PersonX asks PersonX's parents for one	xReact	    happy      
+PersonX asks PersonX's roommate	xAttr	  curious        
+PersonX asks PersonX's roommate	xNeed	   to find their roommate       
+PersonX asks PersonX's son	xNeed	   To talk to son       
+PersonX asks PersonX's wife	oReact	     happy     
+PersonX asks PersonX's wife	oWant	       to respond to PersonX   
+PersonX asks PersonX's wife	xAttr	  curious        
+PersonX asks PersonY a question	oWant	       to answer the question   
+PersonX asks PersonY a question	xNeed	   to approach PersonY       
+PersonX asks PersonY a question	xAttr	  curious        
+PersonX asks PersonY a questions	xNeed	   to call PersonY       
+PersonX asks PersonY a questions	xAttr	  curious        
+PersonX asks PersonY advice	xEffect	        gets advice  
+PersonX asks PersonY anything	xReact	    curious      
+PersonX asks PersonY anything	xAttr	  curious        
+PersonX asks PersonY for PersonZ's number	xReact	    happy      
+PersonX asks PersonY for PersonZ's number	xIntent	 to call personz         
+PersonX asks PersonY for help	xIntent	 to be assisted         
+PersonX asks PersonY had happened	xAttr	  curious        
+PersonX asks PersonY had happened	xWant	      to ask others what happened    
+PersonX asks PersonY if had seen	xAttr	  curious        
+PersonX asks PersonY if had seen	oWant	       to talk to PersonX   
+PersonX asks PersonY if wanted	xAttr	  curious        
+PersonX asks PersonY if wanted	xReact	    happy      
+PersonX asks PersonY if would be	xAttr	  curious        
+PersonX asks PersonY if would be	xNeed	   to talk to PersonY       
+PersonX asks PersonY if would like	xIntent	 to be asks         
+PersonX asks PersonY if would like	xReact	    happy      
+PersonX asks PersonY if would like	xAttr	  curious        
+PersonX asks PersonY if would like	xNeed	   to find PersonY       
+PersonX asks PersonY liked	xAttr	  curious        
+PersonX asks PersonY liked	xNeed	   to greet PersonY       
+PersonX asks PersonY meant	xAttr	  curious        
+PersonX asks PersonY on a date	xAttr	  curious        
+PersonX asks PersonY opinion	xAttr	  curious        
+PersonX asks PersonY out on a date	xReact	    excited      
+PersonX asks PersonY question	xReact	    curious      
+PersonX asks PersonY question	xAttr	  curious        
+PersonX asks PersonY question	xNeed	   to find PersonY       
+PersonX asks PersonY question	oWant	       to answer   
+PersonX asks PersonY questions	xAttr	  curious        
+PersonX asks PersonY questions	xIntent	 to know more         
+PersonX asks PersonY questions	xNeed	   to approach PersonY       
+PersonX asks PersonY questions	xWant	      to get answers    
+PersonX asks PersonY some questions	oEffect	         gets nervous 
+PersonX asks PersonY some questions	xAttr	  curious        
+PersonX asks PersonY some questions	xWant	      to get answers    
+PersonX asks PersonY something	xNeed	   to talk to PersonY       
+PersonX asks PersonY something	xAttr	  curious        
+PersonX asks PersonY the question	xAttr	  curious        
+PersonX asks PersonY the question	oWant	       to answer   
+PersonX asks PersonY the question	xWant	      an answer    
+PersonX asks PersonY the reason	xAttr	  curious        
+PersonX asks PersonY the reason	xWant	      to understand the rules    
+PersonX asks PersonY the reason	xIntent	 to know things         
+PersonX asks PersonY thought	xNeed	   to approach PersonY       
+PersonX asks PersonY thought	xAttr	  curious        
+PersonX asks PersonY to accompany	xAttr	  friendly        
+PersonX asks PersonY to accompany	xReact	    happy      
+PersonX asks PersonY to accompany	oReact	     happy     
+PersonX asks PersonY to be PersonX's wife	xReact	    extremely happy      
+PersonX asks PersonY to be PersonX's wife	oReact	     extremely happy     
+PersonX asks PersonY to call	xReact	    happy      
+PersonX asks PersonY to come	xReact	    happy      
+PersonX asks PersonY to dance	oReact	     happy     
+PersonX asks PersonY to dance	oWant	       to dance with personX   
+PersonX asks PersonY to dance	xReact	    happy      
+PersonX asks PersonY to describe	xAttr	  curious        
+PersonX asks PersonY to dine	xReact	    happy      
+PersonX asks PersonY to dine	oReact	     happy     
+PersonX asks PersonY to dine	xAttr	  friendly        
+PersonX asks PersonY to dine	xWant	      to eat dinner    
+PersonX asks PersonY to explain	xIntent	 to understand         
+PersonX asks PersonY to explain	xReact	    informed      
+PersonX asks PersonY to forgive	oWant	       to forgive PersonX   
+PersonX asks PersonY to get	xWant	      to Y to get something for them    
+PersonX asks PersonY to give	xIntent	 to be thoughtful         
+PersonX asks PersonY to help	oWant	       to help   
+PersonX asks PersonY to help	xIntent	 help         
+PersonX asks PersonY to join	xNeed	   to meet PersonY       
+PersonX asks PersonY to join	xAttr	  friendly        
+PersonX asks PersonY to join	xReact	    happy      
+PersonX asks PersonY to join PersonZ	xAttr	  friendly        
+PersonX asks PersonY to leave	xIntent	 to be alone         
+PersonX asks PersonY to leave	oWant	       to go home   
+PersonX asks PersonY to let	xIntent	 to be allowed         
+PersonX asks PersonY to marry	oReact	     happy     
+PersonX asks PersonY to marry	xReact	    happy      
+PersonX asks PersonY to marry	oEffect	"         PersonY says ""yes!"" "
+PersonX asks PersonY to marry PersonY	xReact	    happy      
+PersonX asks PersonY to marry PersonY	xIntent	 them to be happy together         
+PersonX asks PersonY to marry PersonY	oReact	     happy     
+PersonX asks PersonY to meet	oWant	       agree to meet   
+PersonX asks PersonY to meet	xWant	      to see if they get along    
+PersonX asks PersonY to meet	xNeed	   to know personY       
+PersonX asks PersonY to meet	xAttr	  curious        
+PersonX asks PersonY to repeat	xIntent	 to be clear         
+PersonX asks PersonY to return	xIntent	 to be nice         
+PersonX asks PersonY to return	xReact	    happy      
+PersonX asks PersonY to return	oReact	     happy     
+PersonX asks PersonY to see	xAttr	  curious        
+PersonX asks PersonY to see	xReact	    happy      
+PersonX asks PersonY to send	xNeed	   know PersonY       
+PersonX asks PersonY to stop	xReact	    angry      
+PersonX asks PersonY to take	oWant	       to take it home   
+PersonX asks PersonY to take	xReact	    happy      
+PersonX asks PersonY to tell	xAttr	  curious        
+PersonX asks PersonY to tell	xIntent	 to be truthful         
+PersonX asks PersonY to the dance	xWant	      to dance    
+PersonX asks PersonY to the dance	oReact	     happy     
+PersonX asks PersonY to the prom	xReact	    excited      
+PersonX asks PersonY to the prom	oReact	     excited     
+PersonX asks PersonY to turn it down	oReact	     angry     
+PersonX asks PersonY to wait	xWant	      to be prepared    
+PersonX asks PersonY to write	xIntent	 to be responsible         
+PersonX asks PersonY was going	xAttr	  curious        
+PersonX asks PersonY what happened	xAttr	  curious        
+PersonX asks PersonY what happened	oWant	       to tell personX what happened   
+PersonX asks PersonY what happened	xIntent	 to know what happened         
+PersonX asks PersonY what the problem was	xNeed	   talk to PersonY       
+PersonX asks PersonY what the problem was	xReact	    informed      
+PersonX asks PersonY what the problem was	xAttr	  curious        
+PersonX asks PersonY where was going	xAttr	  curious        
+PersonX asks PersonY's advice	xIntent	 to be helped         
+PersonX asks PersonY's advice	xAttr	  curious        
+PersonX asks PersonY's boss	xAttr	  curious        
+PersonX asks PersonY's brother	xIntent	 to be helpful         
+PersonX asks PersonY's brother	xReact	    happy      
+PersonX asks PersonY's brother	xAttr	  curious        
+PersonX asks PersonY's brother	oReact	     happy     
+PersonX asks PersonY's crush	xAttr	  curious        
+PersonX asks PersonY's father	xNeed	   to go to see PersonY's father       
+PersonX asks PersonY's father	xAttr	  curious        
+PersonX asks PersonY's forgiveness	xAttr	  remorseful        
+PersonX asks PersonY's forgiveness	xWant	      to forgive    
+PersonX asks PersonY's forgiveness	xIntent	 to be forgiven         
+PersonX asks PersonY's forgiveness	oWant	       to forgive him   
+PersonX asks PersonY's friend	xAttr	  curious        
+PersonX asks PersonY's friend	oWant	       to help him   
+PersonX asks PersonY's friend for advice	oWant	       to help   
+PersonX asks PersonY's friend for advice	xWant	      to get feedback    
+PersonX asks PersonY's friend for help	oWant	       to help PersonX   
+PersonX asks PersonY's friends for advice	oReact	     helpful     
+PersonX asks PersonY's friends for advice	oWant	       to give them help   
+PersonX asks PersonY's friends for help	oWant	       to help him   
+PersonX asks PersonY's girlfriend	xReact	    happy      
+PersonX asks PersonY's girlfriend	oReact	     happy     
+PersonX asks PersonY's girlfriend	xNeed	   to talk to PersonY       
+PersonX asks PersonY's girlfriend	xAttr	  curious        
+PersonX asks PersonY's husband	xAttr	  curious        
+PersonX asks PersonY's husband	oWant	       to talk to PersonX   
+PersonX asks PersonY's kids	oReact	     happy     
+PersonX asks PersonY's kids	xAttr	  curious        
+PersonX asks PersonY's kids	xWant	      to get to know PersonY's kids    
+PersonX asks PersonY's mom	xAttr	  curious        
+PersonX asks PersonY's mom	xReact	    happy      
+PersonX asks PersonY's mom for help	oWant	       to help Person X   
+PersonX asks PersonY's mom for help	xReact	    happy      
+PersonX asks PersonY's mom for help	xIntent	 to be safe         
+PersonX asks PersonY's name	xAttr	  curious        
+PersonX asks PersonY's name	xReact	    curious      
+PersonX asks PersonY's name	xIntent	 to know who person is         
+PersonX asks PersonY's neighbor	xAttr	  curious        
+PersonX asks PersonY's neighbors	xReact	    curious      
+PersonX asks PersonY's neighbors	xAttr	  curious        
+PersonX asks PersonY's on a date	xIntent	 to sleep with person         
+PersonX asks PersonY's on a date	xNeed	   to build up the courage to ask the other person out on a date       
+PersonX asks PersonY's opinion	xNeed	   to find PersonY       
+PersonX asks PersonY's opinion	xAttr	  curious        
+PersonX asks PersonY's opinion	xIntent	 to know what they think         
+PersonX asks PersonY's pardon	oWant	       to forgive him   
+PersonX asks PersonY's pardon	xIntent	 to be polite         
+PersonX asks PersonY's parents	oReact	     happy     
+PersonX asks PersonY's parents	xAttr	  curious        
+PersonX asks PersonY's parents for one	oReact	     happy giving     
+PersonX asks PersonY's permission	oReact	     grateful     
+PersonX asks PersonY's permission	xIntent	 to be considerate         
+PersonX asks PersonY's permission	oEffect	         smiles 
+PersonX asks PersonY's permission	xReact	    happy      
+PersonX asks PersonY's roommate	oWant	       to tell PersonX   
+PersonX asks PersonY's roommate	xAttr	  curious        
+PersonX asks PersonY's roommate	oReact	     happy     
+PersonX asks PersonY's son	xAttr	  curious        
+PersonX asks PersonY's son	xNeed	   to communicate with PersonY's son       
+PersonX asks PersonY's wife	xAttr	  curious        
+PersonX asks PersonY's wife	oReact	     happy     
+PersonX asks ___ for PersonY's number	xReact	    nervous      
+PersonX asks ___ for PersonY's number	xAttr	  curious        
+PersonX asks ___ for PersonY's number	xWant	      to call PersonY    
+PersonX asks ___ for a date	xAttr	  curious        
+PersonX asks ___ for a ride	xEffect	        gets a ride  
+PersonX asks ___ for a ride	xReact	    happy      
+PersonX asks ___ for a ride	xIntent	 to go somewhere         
+PersonX asks ___ for advice	xAttr	  curious        
+PersonX asks ___ for advice	xWant	      to get better    
+PersonX asks ___ for directions	xAttr	  curious        
+PersonX asks ___ for lessons	xAttr	  curious        
+PersonX asks ___ for permission	xReact	    nervous      
+PersonX asks ___ for permission	xIntent	 to be polite         
+PersonX asks ___ for recommendations	xAttr	  curious        
+PersonX asks ___ for some advice	xAttr	  curious        
+PersonX asks ___ for some help	oWant	       to help them   
+PersonX asks ___ for suggestions	xAttr	  curious        
+PersonX asks ___ on a date	xEffect	        gets a wink  
+PersonX asks ___ out on a date	xWant	      to go on a date    
+PersonX asks ___ to dinner	xReact	    happy      
+PersonX asks ___ to lunch	oWant	       to eat   
+PersonX asks ___ to lunch	xEffect	        eats lunch  
+PersonX asks ___ to lunch	xReact	    happy      
+PersonX asks ___ to the dance	xWant	      learn to dance    
+PersonX asks ___ to the dance	xAttr	  nervous        
+PersonX asks ___ to the dance	xIntent	 to be social         

@@ -1,0 +1,152 @@
+event	rel	resl
+<oEffect> PersonX accepts PersonY invitation	oEffect	
+<oEffect> PersonX accepts PersonY invitation	oEffect	
+<oEffect> شخص ایکس دعوت شخص دیگری را می پذیرد	oEffect	
+<oEffect> شخص ایکس دعوت شخص دیگری را می پذیرد	oEffect	
+<oReact> PersonX accepts PersonY invitation	oReact	
+<oReact> PersonX accepts PersonY invitation	oReact	
+<oReact> شخص ایکس دعوت شخص دیگری را می پذیرد	oReact	
+<oReact> شخص ایکس دعوت شخص دیگری را می پذیرد	oReact	
+<oWant> PersonX accepts PersonY invitation	oWant	
+<oWant> PersonX accepts PersonY invitation	oWant	
+<oWant> شخص ایکس دعوت شخص دیگری را می پذیرد	oWant	
+<oWant> شخص ایکس دعوت شخص دیگری را می پذیرد	oWant	
+<xAttr> PersonX accepts PersonY invitation	xAttr	
+<xAttr> PersonX accepts PersonY invitation	xAttr	
+<xAttr> شخص ایکس دعوت شخص دیگری را می پذیرد	xAttr	
+<xAttr> شخص ایکس دعوت شخص دیگری را می پذیرد	xAttr	
+<xEffect> PersonX accepts PersonY invitation	xEffect	
+<xEffect> PersonX accepts PersonY invitation	xEffect	
+<xEffect> شخص ایکس دعوت شخص دیگری را می پذیرد	xEffect	
+<xEffect> شخص ایکس دعوت شخص دیگری را می پذیرد	xEffect	
+<xIntent> PersonX accepts PersonY invitation	xIntent	
+<xIntent> PersonX accepts PersonY invitation	xIntent	
+<xIntent> شخص ایکس دعوت شخص دیگری را می پذیرد	xIntent	
+<xIntent> شخص ایکس دعوت شخص دیگری را می پذیرد	xIntent	
+<xNeed> PersonX accepts PersonY invitation	xNeed	
+<xNeed> PersonX accepts PersonY invitation	xNeed	
+<xNeed> شخص ایکس دعوت شخص دیگری را می پذیرد	xNeed	
+<xNeed> شخص ایکس دعوت شخص دیگری را می پذیرد	xNeed	
+<xReact> PersonX accepts PersonY invitation	xReact	
+<xReact> PersonX accepts PersonY invitation	xReact	
+<xReact> شخص ایکس دعوت شخص دیگری را می پذیرد	xReact	
+<xReact> شخص ایکس دعوت شخص دیگری را می پذیرد	xReact	
+<xWant> PersonX accepts PersonY invitation	xWant	
+<xWant> PersonX accepts PersonY invitation	xWant	
+<xWant> شخص ایکس دعوت شخص دیگری را می پذیرد	xWant	
+<xWant> شخص ایکس دعوت شخص دیگری را می پذیرد	xWant	
+<xWant> PersonX accepts PersonY offer	xWant	
+<xWant> PersonX accepts PersonY offer	xWant	
+<xWant> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xWant	
+<xWant> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xWant	
+<xReact> PersonX accepts PersonY offer	xReact	
+<xReact> PersonX accepts PersonY offer	xReact	
+<xReact> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xReact	
+<xReact> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xReact	
+<xNeed> PersonX accepts PersonY offer	xNeed	
+<xNeed> PersonX accepts PersonY offer	xNeed	
+<xNeed> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xNeed	
+<xNeed> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xNeed	
+<xIntent> PersonX accepts PersonY offer	xIntent	
+<xIntent> PersonX accepts PersonY offer	xIntent	
+<xIntent> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xIntent	
+<xIntent> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xIntent	
+<oReact> PersonX accepts PersonY offer	oReact	
+<oReact> PersonX accepts PersonY offer	oReact	
+<oReact> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oReact	
+<oReact> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oReact	
+<xAttr> PersonX accepts PersonY offer	xAttr	
+<xAttr> PersonX accepts PersonY offer	xAttr	
+<xAttr> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xAttr	
+<xAttr> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xAttr	
+<oWant> PersonX accepts PersonY offer	oWant	
+<oWant> PersonX accepts PersonY offer	oWant	
+<oWant> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oWant	
+<oWant> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oWant	
+<oEffect> PersonX accepts PersonY offer	oEffect	
+<oEffect> PersonX accepts PersonY offer	oEffect	
+<oEffect> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oEffect	
+<oEffect> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oEffect	
+<xEffect> PersonX accepts PersonY offer	xEffect	
+<xEffect> PersonX accepts PersonY offer	xEffect	
+<xEffect> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xEffect	
+<xEffect> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xEffect	
+<xNeed> PersonX accepts PersonY's offer	xNeed	
+<xNeed> PersonX accepts PersonY's offer	xNeed	
+<xNeed> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xNeed	
+<xNeed> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xNeed	
+<xWant> PersonX accepts PersonY's offer	xWant	
+<xWant> PersonX accepts PersonY's offer	xWant	
+<xWant> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xWant	
+<xWant> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xWant	
+<xReact> PersonX accepts PersonY's offer	xReact	
+<xReact> PersonX accepts PersonY's offer	xReact	
+<xReact> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xReact	
+<xReact> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xReact	
+<xIntent> PersonX accepts PersonY's offer	xIntent	
+<xIntent> PersonX accepts PersonY's offer	xIntent	
+<xIntent> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xIntent	
+<xIntent> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xIntent	
+<oReact> PersonX accepts PersonY's offer	oReact	
+<oReact> PersonX accepts PersonY's offer	oReact	
+<oReact> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oReact	
+<oReact> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oReact	
+<xAttr> PersonX accepts PersonY's offer	xAttr	
+<xAttr> PersonX accepts PersonY's offer	xAttr	
+<xAttr> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xAttr	
+<xAttr> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xAttr	
+<oWant> PersonX accepts PersonY's offer	oWant	
+<oWant> PersonX accepts PersonY's offer	oWant	
+<oWant> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oWant	
+<oWant> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oWant	
+<oEffect> PersonX accepts PersonY's offer	oEffect	
+<oEffect> PersonX accepts PersonY's offer	oEffect	
+<oEffect> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oEffect	
+<oEffect> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	oEffect	
+<xEffect> PersonX accepts PersonY's offer	xEffect	
+<xEffect> PersonX accepts PersonY's offer	xEffect	
+<xEffect> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xEffect	
+<xEffect> شخص ایکس پیشنهاد شخص دیگری را قبول می کند.	xEffect	
+<xWant> PersonX accepts happily	xWant	
+<xWant> PersonX accepts happily	xWant	
+<xWant> شخص ایکس با خوشحالی قبول می کند	xWant	
+<xWant> شخص ایکس با خوشحالی قبول می کند	xWant	
+<xReact> PersonX accepts happily	xReact	
+<xReact> PersonX accepts happily	xReact	
+<xReact> شخص ایکس با خوشحالی قبول می کند	xReact	
+<xReact> شخص ایکس با خوشحالی قبول می کند	xReact	
+<xNeed> PersonX accepts happily	xNeed	
+<xNeed> PersonX accepts happily	xNeed	
+<xNeed> شخص ایکس با خوشحالی قبول می کند	xNeed	
+<xNeed> شخص ایکس با خوشحالی قبول می کند	xNeed	
+<xIntent> PersonX accepts happily	xIntent	
+<xIntent> PersonX accepts happily	xIntent	
+<xIntent> شخص ایکس با خوشحالی قبول می کند	xIntent	
+<xIntent> شخص ایکس با خوشحالی قبول می کند	xIntent	
+<xEffect> PersonX accepts happily	xEffect	
+<xEffect> PersonX accepts happily	xEffect	
+<xEffect> شخص ایکس با خوشحالی قبول می کند	xEffect	
+<xEffect> شخص ایکس با خوشحالی قبول می کند	xEffect	
+<oWant> PersonX accepts happily	oWant	
+<oWant> PersonX accepts happily	oWant	
+<oWant> شخص ایکس با خوشحالی قبول می کند	oWant	
+<oWant> شخص ایکس با خوشحالی قبول می کند	oWant	
+<oReact> PersonX accepts happily	oReact	
+<oReact> PersonX accepts happily	oReact	
+<oReact> شخص ایکس با خوشحالی قبول می کند	oReact	
+<oReact> شخص ایکس با خوشحالی قبول می کند	oReact	
+<oEffect> PersonX accepts happily	oEffect	
+<oEffect> PersonX accepts happily	oEffect	
+<oEffect> شخص ایکس با خوشحالی قبول می کند	oEffect	
+<oEffect> شخص ایکس با خوشحالی قبول می کند	oEffect	
+<xAttr> PersonX accepts happily	xAttr	
+<xAttr> PersonX accepts happily	xAttr	
+<xAttr> شخص ایکس با خوشحالی قبول می کند	xAttr	
+<xAttr> شخص ایکس با خوشحالی قبول می کند	xAttr	
+<xNeed> PersonX accepts the offer	xNeed	
+<xNeed> PersonX accepts the offer	xNeed	
+<xNeed> شخص ایکس پیشنهاد را قبول می کند.	xNeed	
+<xNeed> شخص ایکس پیشنهاد را قبول می کند.	xNeed	
+<xWant> PersonX accepts the offer	xWant	
+<xWant> PersonX accepts the offer	xWant	
+<xWant> شخص ایکس پیشنهاد را قبول می کند.	xWant	
